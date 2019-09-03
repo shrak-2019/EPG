@@ -53,7 +53,7 @@
     <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="Discovery world HD">
-    <display-name lang="pt">Discovery world HD</display-name>
+    <display-name lang="pt">Discovery World HD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="Disney Channel HD">
@@ -61,7 +61,7 @@
     <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="DISNEY JUNIOR HD">
-    <display-name lang="pt">DISNEY JUNIOR HD</display-name>
+    <display-name lang="pt">Disney Junior HD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="Disney XD HD">
@@ -76,8 +76,8 @@
     <display-name lang="pt">ESPN HD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="FISH TV HD">
-    <display-name lang="pt">FISH TV HD</display-name>
+  <channel id="Fish TV HD">
+    <display-name lang="pt">Fish TV HD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="FOX HD">
@@ -92,8 +92,8 @@
     <display-name lang="pt">FX HD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="GLOBO BRASILIA HD">
-    <display-name lang="pt">GLOBO BRASILIA HD</display-name>
+  <channel id="Globo Brasília HD">
+    <display-name lang="pt">Globo Brasília HD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="GNT HD">
@@ -124,20 +124,20 @@
     <display-name lang="pt">HBO Signature HD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="The History Channel SD">
-    <display-name lang="pt">The History Channel SD</display-name>
+  <channel id="History Channel HD">
+    <display-name lang="pt">History Channel HD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="Max HD">
     <display-name lang="pt">Max HD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="MAX Prime HD">
-    <display-name lang="pt">MAX Prime HD</display-name>
+  <channel id="Max Prime HD">
+    <display-name lang="pt">Max Prime HD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="MAX UP HD">
-    <display-name lang="pt">MAX UP HD</display-name>
+  <channel id="Max Up HD">
+    <display-name lang="pt">Max Up HD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="Megapix HD">
@@ -35251,2130 +35251,1537 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903010000 -0300" stop="20190903020000 -0300" channel="ESPN HD">
-    <title lang="pt">Sportscenter</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190903020000 -0300" stop="20190903043000 -0300" channel="ESPN HD">
-    <title lang="pt">MLB: Houston Astros x Milwaukee Brewers</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190903043000 -0300" stop="20190903053000 -0300" channel="ESPN HD">
-    <title lang="pt">ESPN League</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190903053000 -0300" stop="20190903060000 -0300" channel="ESPN HD">
-    <title lang="pt">Multiplayer</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190903060000 -0300" stop="20190903070000 -0300" channel="ESPN HD">
-    <title lang="pt">Sportscenter</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190903070000 -0300" stop="20190903080000 -0300" channel="ESPN HD">
-    <title lang="pt">Sportscenter</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190903080000 -0300" stop="20190903090000 -0300" channel="ESPN HD">
-    <title lang="pt">Sportscenter</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190903090000 -0300" stop="20190903100000 -0300" channel="ESPN HD">
-    <title lang="pt">ESPN League</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190903100000 -0300" stop="20190903120000 -0300" channel="ESPN HD">
-    <title lang="pt">Arsenal x Tottenham</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190903120000 -0300" stop="20190903190000 -0300" channel="ESPN HD">
-    <title lang="pt">US Open</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190903190000 -0300" stop="20190903200000 -0300" channel="ESPN HD">
-    <title lang="pt">Pelas Quadras do US Open</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190903200000 -0300" stop="20190904010000 -0300" channel="ESPN HD">
-    <title lang="pt">US Open</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190904010000 -0300" stop="20190904013000 -0300" channel="ESPN HD">
-    <title lang="pt">Destaques da Vuelta a España</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190904013000 -0300" stop="20190904023000 -0300" channel="ESPN HD">
-    <title lang="pt">Sportscenter</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190904023000 -0300" stop="20190904043000 -0300" channel="ESPN HD">
-    <title lang="pt">Vuelta a España</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190904043000 -0300" stop="20190904050000 -0300" channel="ESPN HD">
-    <title lang="pt">Show da Rodada do Campeonato Espanhol</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190904050000 -0300" stop="20190904053000 -0300" channel="ESPN HD">
-    <title lang="pt">Show da Rodada da Premier League</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190904053000 -0300" stop="20190904060000 -0300" channel="ESPN HD">
-    <title lang="pt">Matchmaking</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190904060000 -0300" stop="20190904070000 -0300" channel="ESPN HD">
-    <title lang="pt">Sportscenter</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190904070000 -0300" stop="20190904080000 -0300" channel="ESPN HD">
-    <title lang="pt">Sportscenter</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190904080000 -0300" stop="20190904090000 -0300" channel="ESPN HD">
-    <title lang="pt">Sportscenter</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190904090000 -0300" stop="20190904100000 -0300" channel="ESPN HD">
-    <title lang="pt">Olhar ESPN W</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190904100000 -0300" stop="20190904130000 -0300" channel="ESPN HD">
-    <title lang="pt">Bayern de Munique x Mainz 05</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190904130000 -0300" stop="20190904190000 -0300" channel="ESPN HD">
-    <title lang="pt">US Open</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190904190000 -0300" stop="20190904200000 -0300" channel="ESPN HD">
-    <title lang="pt">Pelas Quadras do US Open</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190904200000 -0300" stop="20190905010000 -0300" channel="ESPN HD">
-    <title lang="pt">US Open</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190905010000 -0300" stop="20190905013000 -0300" channel="ESPN HD">
-    <title lang="pt">Destaques da Vuelta a España</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190905013000 -0300" stop="20190905023000 -0300" channel="ESPN HD">
-    <title lang="pt">Sportscenter</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190905023000 -0300" stop="20190905043000 -0300" channel="ESPN HD">
-    <title lang="pt">Vuelta a España</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190905043000 -0300" stop="20190905053000 -0300" channel="ESPN HD">
-    <title lang="pt">Olhar ESPN W</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190905053000 -0300" stop="20190905060000 -0300" channel="ESPN HD">
-    <title lang="pt">Arena Esports</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190905060000 -0300" stop="20190905070000 -0300" channel="ESPN HD">
-    <title lang="pt">Sportscenter</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190905070000 -0300" stop="20190905080000 -0300" channel="ESPN HD">
-    <title lang="pt">Sportscenter</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190905080000 -0300" stop="20190905090000 -0300" channel="ESPN HD">
-    <title lang="pt">Sportscenter</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190905090000 -0300" stop="20190905100000 -0300" channel="ESPN HD">
-    <title lang="pt">Mina de Passe</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190905100000 -0300" stop="20190905130000 -0300" channel="ESPN HD">
-    <title lang="pt">Juventus x Napoli</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190905130000 -0300" stop="20190905170000 -0300" channel="ESPN HD">
-    <title lang="pt">US Open</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190905170000 -0300" stop="20190905173000 -0300" channel="ESPN HD">
-    <title lang="pt">Show da Rodada do Campeonato Espanhol</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190905173000 -0300" stop="20190905180000 -0300" channel="ESPN HD">
-    <title lang="pt">Show da Rodada da Premier League</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190905180000 -0300" stop="20190905183000 -0300" channel="ESPN HD">
-    <title lang="pt">Spirit of Yachting</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190905183000 -0300" stop="20190905190000 -0300" channel="ESPN HD">
-    <title lang="pt">Limite Heineken</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190905190000 -0300" stop="20190905200000 -0300" channel="ESPN HD">
-    <title lang="pt">Pelas Quadras do US Open</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190905200000 -0300" stop="20190905211500 -0300" channel="ESPN HD">
-    <title lang="pt">NFL: Abre O Jogo</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190905211500 -0300" stop="20190906003000 -0300" channel="ESPN HD">
-    <title lang="pt">NFL: Green Bay Packers x Chicago Bears</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190906003000 -0300" stop="20190906010000 -0300" channel="ESPN HD">
-    <title lang="pt">Destaques da Vuelta a España</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190906010000 -0300" stop="20190906020000 -0300" channel="ESPN HD">
-    <title lang="pt">Sportscenter</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190906020000 -0300" stop="20190906040000 -0300" channel="ESPN HD">
-    <title lang="pt">Vuelta a España</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190906040000 -0300" stop="20190906070000 -0300" channel="ESPN HD">
-    <title lang="pt">US Open</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190906070000 -0300" stop="20190906080000 -0300" channel="ESPN HD">
-    <title lang="pt">Sportscenter</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190906080000 -0300" stop="20190906090000 -0300" channel="ESPN HD">
-    <title lang="pt">Sportscenter</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190906090000 -0300" stop="20190906111500 -0300" channel="ESPN HD">
-    <title lang="pt">NFL: Green Bay Packers x Chicago Bears</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190906111500 -0300" stop="20190906130000 -0300" channel="ESPN HD">
-    <title lang="pt">Amistoso Internacional de Futebol Feminino: Estados Unidos x Portugal</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190906130000 -0300" stop="20190906160000 -0300" channel="ESPN HD">
-    <title lang="pt">US Open</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190906160000 -0300" stop="20190906170000 -0300" channel="ESPN HD">
-    <title lang="pt">Pelas Quadras do US Open</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190906170000 -0300" stop="20190906230000 -0300" channel="ESPN HD">
-    <title lang="pt">US Open</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190906230000 -0300" stop="20190906233000 -0300" channel="ESPN HD">
-    <title lang="pt">Limite Heineken</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190906233000 -0300" stop="20190907000000 -0300" channel="ESPN HD">
-    <title lang="pt">Destaques da Vuelta a España</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190907000000 -0300" stop="20190907010000 -0300" channel="ESPN HD">
-    <title lang="pt">Sportscenter</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190907010000 -0300" stop="20190907030000 -0300" channel="ESPN HD">
-    <title lang="pt">Vuelta a España</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190907030000 -0300" stop="20190907050000 -0300" channel="ESPN HD">
-    <title lang="pt">Rugby Amistoso Internacional: Inglaterra x Itália</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190907050000 -0300" stop="20190907053000 -0300" channel="ESPN HD">
-    <title lang="pt">Limite Heineken</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190907053000 -0300" stop="20190907060000 -0300" channel="ESPN HD">
-    <title lang="pt">Mundo Premier League</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190907060000 -0300" stop="20190907070000 -0300" channel="ESPN HD">
-    <title lang="pt">Sportscenter</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190907070000 -0300" stop="20190907080000 -0300" channel="ESPN HD">
-    <title lang="pt">Sportscenter</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190907080000 -0300" stop="20190907090000 -0300" channel="ESPN HD">
-    <title lang="pt">Sportscenter</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190907090000 -0300" stop="20190907120000 -0300" channel="ESPN HD">
-    <title lang="pt">Schalke 04 x Bayern de Munique</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190907120000 -0300" stop="20190907190000 -0300" channel="ESPN HD">
-    <title lang="pt">US Open</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190907190000 -0300" stop="20190907200000 -0300" channel="ESPN HD">
-    <title lang="pt">Pelas Quadras do US Open</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190907200000 -0300" stop="20190908010000 -0300" channel="ESPN HD">
-    <title lang="pt">US Open</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190908010000 -0300" stop="20190908013000 -0300" channel="ESPN HD">
-    <title lang="pt">Destaques da Vuelta a España</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190908013000 -0300" stop="20190908023000 -0300" channel="ESPN HD">
-    <title lang="pt">Sportscenter</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190908023000 -0300" stop="20190908043000 -0300" channel="ESPN HD">
-    <title lang="pt">Vuelta a España</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190908043000 -0300" stop="20190908060000 -0300" channel="ESPN HD">
-    <title lang="pt">LBF: Sampaio x Campinas</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190908060000 -0300" stop="20190908070000 -0300" channel="ESPN HD">
-    <title lang="pt">Sportscenter</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190908070000 -0300" stop="20190908080000 -0300" channel="ESPN HD">
-    <title lang="pt">Sportscenter</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190908080000 -0300" stop="20190908090000 -0300" channel="ESPN HD">
-    <title lang="pt">Sportscenter</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190908090000 -0300" stop="20190908092500 -0300" channel="ESPN HD">
-    <title lang="pt">Arena Esports</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190908092500 -0300" stop="20190908113000 -0300" channel="ESPN HD">
-    <title lang="pt">Sparta Rotterdam x Ajax</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190908113000 -0300" stop="20190908120000 -0300" channel="ESPN HD">
-    <title lang="pt">Destaques do Super Bowl: Philadelphia Eagles x New England Patriots</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190908120000 -0300" stop="20190908190000 -0300" channel="ESPN HD">
-    <title lang="pt">US Open</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190908190000 -0300" stop="20190908200000 -0300" channel="ESPN HD">
-    <title lang="pt">Pelas Quadras do US Open</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190908200000 -0300" stop="20190909010000 -0300" channel="ESPN HD">
-    <title lang="pt">US Open</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190909010000 -0300" stop="20190909013000 -0300" channel="ESPN HD">
-    <title lang="pt">Destaques da Vuelta a España</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190909013000 -0300" stop="20190909023000 -0300" channel="ESPN HD">
-    <title lang="pt">Sportscenter</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190909023000 -0300" stop="20190909043000 -0300" channel="ESPN HD">
-    <title lang="pt">Vuelta a España</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190909043000 -0300" stop="20190909060000 -0300" channel="ESPN HD">
-    <title lang="pt">Europeu Feminino de Vôlei</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190909060000 -0300" stop="20190909070000 -0300" channel="ESPN HD">
-    <title lang="pt">Sportscenter</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190909070000 -0300" stop="20190909080000 -0300" channel="ESPN HD">
-    <title lang="pt">Sportscenter</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190909080000 -0300" stop="20190909090000 -0300" channel="ESPN HD">
-    <title lang="pt">Sportscenter</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190909090000 -0300" stop="20190909093000 -0300" channel="ESPN HD">
-    <title lang="pt">Arena Esports</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190909093000 -0300" stop="20190909100000 -0300" channel="ESPN HD">
-    <title lang="pt">Caravana do Esporte</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190909100000 -0300" stop="20190909120000 -0300" channel="ESPN HD">
-    <title lang="pt">Villarreal x Real Madrid</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190909120000 -0300" stop="20190909190000 -0300" channel="ESPN HD">
-    <title lang="pt">US Open</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190909190000 -0300" stop="20190909200000 -0300" channel="ESPN HD">
-    <title lang="pt">Pelas Quadras do US Open</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190909200000 -0300" stop="20190910010000 -0300" channel="ESPN HD">
-    <title lang="pt">US Open</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190903000000 -0300" stop="20190903030000 -0300" channel="FISH TV HD">
+  <programme start="20190903000000 -0300" stop="20190903030000 -0300" channel="Fish TV HD">
     <title lang="pt">TV Shopping Brasil</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903030000 -0300" stop="20190903032000 -0300" channel="FISH TV HD">
+  <programme start="20190903030000 -0300" stop="20190903032000 -0300" channel="Fish TV HD">
     <title lang="pt">Fish TV News</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903032000 -0300" stop="20190903034500 -0300" channel="FISH TV HD">
+  <programme start="20190903032000 -0300" stop="20190903034500 -0300" channel="Fish TV HD">
     <title lang="pt">Melhores Destinos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903034500 -0300" stop="20190903041000 -0300" channel="FISH TV HD">
+  <programme start="20190903034500 -0300" stop="20190903041000 -0300" channel="Fish TV HD">
     <title lang="pt">Pasión Por La Pesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903041000 -0300" stop="20190903043500 -0300" channel="FISH TV HD">
+  <programme start="20190903041000 -0300" stop="20190903043500 -0300" channel="Fish TV HD">
     <title lang="pt">Mar de Histórias</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903043500 -0300" stop="20190903052500 -0300" channel="FISH TV HD">
+  <programme start="20190903043500 -0300" stop="20190903052500 -0300" channel="Fish TV HD">
     <title lang="pt">Pura Pesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903052500 -0300" stop="20190903061500 -0300" channel="FISH TV HD">
+  <programme start="20190903052500 -0300" stop="20190903061500 -0300" channel="Fish TV HD">
     <title lang="pt">Pesque e Pague</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903061500 -0300" stop="20190903063500 -0300" channel="FISH TV HD">
+  <programme start="20190903061500 -0300" stop="20190903063500 -0300" channel="Fish TV HD">
     <title lang="pt">Provas e Torneios</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903063500 -0300" stop="20190903072500 -0300" channel="FISH TV HD">
+  <programme start="20190903063500 -0300" stop="20190903072500 -0300" channel="Fish TV HD">
     <title lang="pt">Campeonato Brasileiro em Pesqueiros</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903072500 -0300" stop="20190903075000 -0300" channel="FISH TV HD">
+  <programme start="20190903072500 -0300" stop="20190903075000 -0300" channel="Fish TV HD">
     <title lang="pt">Melhores Destinos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903075000 -0300" stop="20190903083500 -0300" channel="FISH TV HD">
+  <programme start="20190903075000 -0300" stop="20190903083500 -0300" channel="Fish TV HD">
     <title lang="pt">A Meta</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903083500 -0300" stop="20190903090000 -0300" channel="FISH TV HD">
+  <programme start="20190903083500 -0300" stop="20190903090000 -0300" channel="Fish TV HD">
     <title lang="pt">Biopesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903090000 -0300" stop="20190903093000 -0300" channel="FISH TV HD">
+  <programme start="20190903090000 -0300" stop="20190903093000 -0300" channel="Fish TV HD">
     <title lang="pt">Saltwater</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903093000 -0300" stop="20190903100000 -0300" channel="FISH TV HD">
+  <programme start="20190903093000 -0300" stop="20190903100000 -0300" channel="Fish TV HD">
     <title lang="pt">Aqua Negócios</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903100000 -0300" stop="20190903110000 -0300" channel="FISH TV HD">
+  <programme start="20190903100000 -0300" stop="20190903110000 -0300" channel="Fish TV HD">
     <title lang="pt">Campeonato Brasileiro em Pesqueiros</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903110000 -0300" stop="20190903113000 -0300" channel="FISH TV HD">
+  <programme start="20190903110000 -0300" stop="20190903113000 -0300" channel="Fish TV HD">
     <title lang="pt">Pesca Dinâmica</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903113000 -0300" stop="20190903120000 -0300" channel="FISH TV HD">
+  <programme start="20190903113000 -0300" stop="20190903120000 -0300" channel="Fish TV HD">
     <title lang="pt">Família Nakamura</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903120000 -0300" stop="20190903123000 -0300" channel="FISH TV HD">
+  <programme start="20190903120000 -0300" stop="20190903123000 -0300" channel="Fish TV HD">
     <title lang="pt">Sabores</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903123000 -0300" stop="20190903133000 -0300" channel="FISH TV HD">
+  <programme start="20190903123000 -0300" stop="20190903133000 -0300" channel="Fish TV HD">
     <title lang="pt">Pura Pesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903133000 -0300" stop="20190903140000 -0300" channel="FISH TV HD">
+  <programme start="20190903133000 -0300" stop="20190903140000 -0300" channel="Fish TV HD">
     <title lang="pt">Pasión Por La Pesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903140000 -0300" stop="20190903143000 -0300" channel="FISH TV HD">
+  <programme start="20190903140000 -0300" stop="20190903143000 -0300" channel="Fish TV HD">
     <title lang="pt">Provas e Torneios</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903143000 -0300" stop="20190903150000 -0300" channel="FISH TV HD">
+  <programme start="20190903143000 -0300" stop="20190903150000 -0300" channel="Fish TV HD">
     <title lang="pt">Pesca em Ação</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903150000 -0300" stop="20190903160000 -0300" channel="FISH TV HD">
+  <programme start="20190903150000 -0300" stop="20190903160000 -0300" channel="Fish TV HD">
     <title lang="pt">A Meta</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903160000 -0300" stop="20190903163000 -0300" channel="FISH TV HD">
+  <programme start="20190903160000 -0300" stop="20190903163000 -0300" channel="Fish TV HD">
     <title lang="pt">Remos e Rumos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903163000 -0300" stop="20190903173000 -0300" channel="FISH TV HD">
+  <programme start="20190903163000 -0300" stop="20190903173000 -0300" channel="Fish TV HD">
     <title lang="pt">Na Pegada do Fly</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903173000 -0300" stop="20190903180000 -0300" channel="FISH TV HD">
+  <programme start="20190903173000 -0300" stop="20190903180000 -0300" channel="Fish TV HD">
     <title lang="pt">Família Nakamura</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903180000 -0300" stop="20190903183000 -0300" channel="FISH TV HD">
+  <programme start="20190903180000 -0300" stop="20190903183000 -0300" channel="Fish TV HD">
     <title lang="pt">Aquarismo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903183000 -0300" stop="20190903190000 -0300" channel="FISH TV HD">
+  <programme start="20190903183000 -0300" stop="20190903190000 -0300" channel="Fish TV HD">
     <title lang="pt">Saltwater</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903190000 -0300" stop="20190903193000 -0300" channel="FISH TV HD">
+  <programme start="20190903190000 -0300" stop="20190903193000 -0300" channel="Fish TV HD">
     <title lang="pt">Sabores</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903193000 -0300" stop="20190903200000 -0300" channel="FISH TV HD">
+  <programme start="20190903193000 -0300" stop="20190903200000 -0300" channel="Fish TV HD">
     <title lang="pt">Destinos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903200000 -0300" stop="20190903203000 -0300" channel="FISH TV HD">
+  <programme start="20190903200000 -0300" stop="20190903203000 -0300" channel="Fish TV HD">
     <title lang="pt">Elas na Pesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903203000 -0300" stop="20190903210000 -0300" channel="FISH TV HD">
+  <programme start="20190903203000 -0300" stop="20190903210000 -0300" channel="Fish TV HD">
     <title lang="pt">A Arte do Atado</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903210000 -0300" stop="20190903220000 -0300" channel="FISH TV HD">
+  <programme start="20190903210000 -0300" stop="20190903220000 -0300" channel="Fish TV HD">
     <title lang="pt">Na Pegada do Fly</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903220000 -0300" stop="20190903223000 -0300" channel="FISH TV HD">
+  <programme start="20190903220000 -0300" stop="20190903223000 -0300" channel="Fish TV HD">
     <title lang="pt">Pesca em Ação</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903223000 -0300" stop="20190903230000 -0300" channel="FISH TV HD">
+  <programme start="20190903223000 -0300" stop="20190903230000 -0300" channel="Fish TV HD">
     <title lang="pt">Remos e Rumos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903230000 -0300" stop="20190904000000 -0300" channel="FISH TV HD">
+  <programme start="20190903230000 -0300" stop="20190904000000 -0300" channel="Fish TV HD">
     <title lang="pt">Coração de Pescador</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904000000 -0300" stop="20190904030000 -0300" channel="FISH TV HD">
+  <programme start="20190904000000 -0300" stop="20190904030000 -0300" channel="Fish TV HD">
     <title lang="pt">TV Shopping Brasil</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904030000 -0300" stop="20190904032000 -0300" channel="FISH TV HD">
+  <programme start="20190904030000 -0300" stop="20190904032000 -0300" channel="Fish TV HD">
     <title lang="pt">Biopesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904032000 -0300" stop="20190904034500 -0300" channel="FISH TV HD">
+  <programme start="20190904032000 -0300" stop="20190904034500 -0300" channel="Fish TV HD">
     <title lang="pt">Provas e Torneios</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904034500 -0300" stop="20190904043500 -0300" channel="FISH TV HD">
+  <programme start="20190904034500 -0300" stop="20190904043500 -0300" channel="Fish TV HD">
     <title lang="pt">Campeonato Brasileiro em Pesqueiros</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904043500 -0300" stop="20190904050000 -0300" channel="FISH TV HD">
+  <programme start="20190904043500 -0300" stop="20190904050000 -0300" channel="Fish TV HD">
     <title lang="pt">Pasión Por La Pesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904050000 -0300" stop="20190904052500 -0300" channel="FISH TV HD">
+  <programme start="20190904050000 -0300" stop="20190904052500 -0300" channel="Fish TV HD">
     <title lang="pt">Destinos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904052500 -0300" stop="20190904054500 -0300" channel="FISH TV HD">
+  <programme start="20190904052500 -0300" stop="20190904054500 -0300" channel="Fish TV HD">
     <title lang="pt">Saltwater</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904054500 -0300" stop="20190904061000 -0300" channel="FISH TV HD">
+  <programme start="20190904054500 -0300" stop="20190904061000 -0300" channel="Fish TV HD">
     <title lang="pt">Família Nakamura</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904061000 -0300" stop="20190904070000 -0300" channel="FISH TV HD">
+  <programme start="20190904061000 -0300" stop="20190904070000 -0300" channel="Fish TV HD">
     <title lang="pt">A Meta</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904070000 -0300" stop="20190904072500 -0300" channel="FISH TV HD">
+  <programme start="20190904070000 -0300" stop="20190904072500 -0300" channel="Fish TV HD">
     <title lang="pt">Mar de Histórias</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904072500 -0300" stop="20190904075000 -0300" channel="FISH TV HD">
+  <programme start="20190904072500 -0300" stop="20190904075000 -0300" channel="Fish TV HD">
     <title lang="pt">Elas na Pesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904075000 -0300" stop="20190904081500 -0300" channel="FISH TV HD">
+  <programme start="20190904075000 -0300" stop="20190904081500 -0300" channel="Fish TV HD">
     <title lang="pt">Melhores Destinos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904081500 -0300" stop="20190904090000 -0300" channel="FISH TV HD">
+  <programme start="20190904081500 -0300" stop="20190904090000 -0300" channel="Fish TV HD">
     <title lang="pt">Na Pegada do Fly</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904090000 -0300" stop="20190904100000 -0300" channel="FISH TV HD">
+  <programme start="20190904090000 -0300" stop="20190904100000 -0300" channel="Fish TV HD">
     <title lang="pt">A Meta</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904100000 -0300" stop="20190904103000 -0300" channel="FISH TV HD">
+  <programme start="20190904100000 -0300" stop="20190904103000 -0300" channel="Fish TV HD">
     <title lang="pt">Fish TV News</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904103000 -0300" stop="20190904110000 -0300" channel="FISH TV HD">
+  <programme start="20190904103000 -0300" stop="20190904110000 -0300" channel="Fish TV HD">
     <title lang="pt">Remos e Rumos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904110000 -0300" stop="20190904113000 -0300" channel="FISH TV HD">
+  <programme start="20190904110000 -0300" stop="20190904113000 -0300" channel="Fish TV HD">
     <title lang="pt">Aquarismo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904113000 -0300" stop="20190904123000 -0300" channel="FISH TV HD">
+  <programme start="20190904113000 -0300" stop="20190904123000 -0300" channel="Fish TV HD">
     <title lang="pt">Pura Pesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904123000 -0300" stop="20190904130000 -0300" channel="FISH TV HD">
+  <programme start="20190904123000 -0300" stop="20190904130000 -0300" channel="Fish TV HD">
     <title lang="pt">Família Nakamura</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904130000 -0300" stop="20190904133000 -0300" channel="FISH TV HD">
+  <programme start="20190904130000 -0300" stop="20190904133000 -0300" channel="Fish TV HD">
     <title lang="pt">Melhores Destinos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904133000 -0300" stop="20190904140000 -0300" channel="FISH TV HD">
+  <programme start="20190904133000 -0300" stop="20190904140000 -0300" channel="Fish TV HD">
     <title lang="pt">Sabores</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904140000 -0300" stop="20190904143000 -0300" channel="FISH TV HD">
+  <programme start="20190904140000 -0300" stop="20190904143000 -0300" channel="Fish TV HD">
     <title lang="pt">Pesca em Ação</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904143000 -0300" stop="20190904150000 -0300" channel="FISH TV HD">
+  <programme start="20190904143000 -0300" stop="20190904150000 -0300" channel="Fish TV HD">
     <title lang="pt">Elas na Pesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904150000 -0300" stop="20190904153000 -0300" channel="FISH TV HD">
+  <programme start="20190904150000 -0300" stop="20190904153000 -0300" channel="Fish TV HD">
     <title lang="pt">A Arte do Atado</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904153000 -0300" stop="20190904163000 -0300" channel="FISH TV HD">
+  <programme start="20190904153000 -0300" stop="20190904163000 -0300" channel="Fish TV HD">
     <title lang="pt">Na Pegada do Fly</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904163000 -0300" stop="20190904173000 -0300" channel="FISH TV HD">
+  <programme start="20190904163000 -0300" stop="20190904173000 -0300" channel="Fish TV HD">
     <title lang="pt">Coração de Pescador</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904173000 -0300" stop="20190904180000 -0300" channel="FISH TV HD">
+  <programme start="20190904173000 -0300" stop="20190904180000 -0300" channel="Fish TV HD">
     <title lang="pt">Destinos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904180000 -0300" stop="20190904183000 -0300" channel="FISH TV HD">
+  <programme start="20190904180000 -0300" stop="20190904183000 -0300" channel="Fish TV HD">
     <title lang="pt">Pesca Dinâmica</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904183000 -0300" stop="20190904190000 -0300" channel="FISH TV HD">
+  <programme start="20190904183000 -0300" stop="20190904190000 -0300" channel="Fish TV HD">
     <title lang="pt">Pasión Por La Pesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904190000 -0300" stop="20190904193000 -0300" channel="FISH TV HD">
+  <programme start="20190904190000 -0300" stop="20190904193000 -0300" channel="Fish TV HD">
     <title lang="pt">Saltwater</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904193000 -0300" stop="20190904200000 -0300" channel="FISH TV HD">
+  <programme start="20190904193000 -0300" stop="20190904200000 -0300" channel="Fish TV HD">
     <title lang="pt">Provas e Torneios</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904200000 -0300" stop="20190904203000 -0300" channel="FISH TV HD">
+  <programme start="20190904200000 -0300" stop="20190904203000 -0300" channel="Fish TV HD">
     <title lang="pt">Fish TV News</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904203000 -0300" stop="20190904213000 -0300" channel="FISH TV HD">
+  <programme start="20190904203000 -0300" stop="20190904213000 -0300" channel="Fish TV HD">
     <title lang="pt">Campeonato Brasileiro em Pesqueiros</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904213000 -0300" stop="20190904223000 -0300" channel="FISH TV HD">
+  <programme start="20190904213000 -0300" stop="20190904223000 -0300" channel="Fish TV HD">
     <title lang="pt">Pesque e Pague</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904223000 -0300" stop="20190904233000 -0300" channel="FISH TV HD">
+  <programme start="20190904223000 -0300" stop="20190904233000 -0300" channel="Fish TV HD">
     <title lang="pt">Coração de Pescador</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904233000 -0300" stop="20190905000000 -0300" channel="FISH TV HD">
+  <programme start="20190904233000 -0300" stop="20190905000000 -0300" channel="Fish TV HD">
     <title lang="pt">Aqua Negócios</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905000000 -0300" stop="20190905030000 -0300" channel="FISH TV HD">
+  <programme start="20190905000000 -0300" stop="20190905030000 -0300" channel="Fish TV HD">
     <title lang="pt">TV Shopping Brasil</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905030000 -0300" stop="20190905032000 -0300" channel="FISH TV HD">
+  <programme start="20190905030000 -0300" stop="20190905032000 -0300" channel="Fish TV HD">
     <title lang="pt">Aqua Negócios</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905032000 -0300" stop="20190905034500 -0300" channel="FISH TV HD">
+  <programme start="20190905032000 -0300" stop="20190905034500 -0300" channel="Fish TV HD">
     <title lang="pt">Aquarismo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905034500 -0300" stop="20190905043500 -0300" channel="FISH TV HD">
+  <programme start="20190905034500 -0300" stop="20190905043500 -0300" channel="Fish TV HD">
     <title lang="pt">Na Pegada do Fly</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905043500 -0300" stop="20190905050000 -0300" channel="FISH TV HD">
+  <programme start="20190905043500 -0300" stop="20190905050000 -0300" channel="Fish TV HD">
     <title lang="pt">Sabores</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905050000 -0300" stop="20190905052500 -0300" channel="FISH TV HD">
+  <programme start="20190905050000 -0300" stop="20190905052500 -0300" channel="Fish TV HD">
     <title lang="pt">Destinos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905052500 -0300" stop="20190905054500 -0300" channel="FISH TV HD">
+  <programme start="20190905052500 -0300" stop="20190905054500 -0300" channel="Fish TV HD">
     <title lang="pt">Biopesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905054500 -0300" stop="20190905061500 -0300" channel="FISH TV HD">
+  <programme start="20190905054500 -0300" stop="20190905061500 -0300" channel="Fish TV HD">
     <title lang="pt">Mar de Histórias</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905061500 -0300" stop="20190905063500 -0300" channel="FISH TV HD">
+  <programme start="20190905061500 -0300" stop="20190905063500 -0300" channel="Fish TV HD">
     <title lang="pt">Elas na Pesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905063500 -0300" stop="20190905070000 -0300" channel="FISH TV HD">
+  <programme start="20190905063500 -0300" stop="20190905070000 -0300" channel="Fish TV HD">
     <title lang="pt">Ases da Pesca em Ação</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905070000 -0300" stop="20190905072500 -0300" channel="FISH TV HD">
+  <programme start="20190905070000 -0300" stop="20190905072500 -0300" channel="Fish TV HD">
     <title lang="pt">A Arte do Atado</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905072500 -0300" stop="20190905081500 -0300" channel="FISH TV HD">
+  <programme start="20190905072500 -0300" stop="20190905081500 -0300" channel="Fish TV HD">
     <title lang="pt">Pesque e Pague</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905081500 -0300" stop="20190905090000 -0300" channel="FISH TV HD">
+  <programme start="20190905081500 -0300" stop="20190905090000 -0300" channel="Fish TV HD">
     <title lang="pt">A Meta</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905090000 -0300" stop="20190905093000 -0300" channel="FISH TV HD">
+  <programme start="20190905090000 -0300" stop="20190905093000 -0300" channel="Fish TV HD">
     <title lang="pt">Aqua Negócios</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905093000 -0300" stop="20190905100000 -0300" channel="FISH TV HD">
+  <programme start="20190905093000 -0300" stop="20190905100000 -0300" channel="Fish TV HD">
     <title lang="pt">Pesca Dinâmica</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905100000 -0300" stop="20190905103000 -0300" channel="FISH TV HD">
+  <programme start="20190905100000 -0300" stop="20190905103000 -0300" channel="Fish TV HD">
     <title lang="pt">Aquarismo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905103000 -0300" stop="20190905110000 -0300" channel="FISH TV HD">
+  <programme start="20190905103000 -0300" stop="20190905110000 -0300" channel="Fish TV HD">
     <title lang="pt">A Arte do Atado</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905110000 -0300" stop="20190905113000 -0300" channel="FISH TV HD">
+  <programme start="20190905110000 -0300" stop="20190905113000 -0300" channel="Fish TV HD">
     <title lang="pt">Pasión Por La Pesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905113000 -0300" stop="20190905120000 -0300" channel="FISH TV HD">
+  <programme start="20190905113000 -0300" stop="20190905120000 -0300" channel="Fish TV HD">
     <title lang="pt">Saltwater</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905120000 -0300" stop="20190905130000 -0300" channel="FISH TV HD">
+  <programme start="20190905120000 -0300" stop="20190905130000 -0300" channel="Fish TV HD">
     <title lang="pt">Campeonato Brasileiro em Pesqueiros</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905130000 -0300" stop="20190905133000 -0300" channel="FISH TV HD">
+  <programme start="20190905130000 -0300" stop="20190905133000 -0300" channel="Fish TV HD">
     <title lang="pt">Provas e Torneios</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905133000 -0300" stop="20190905143000 -0300" channel="FISH TV HD">
+  <programme start="20190905133000 -0300" stop="20190905143000 -0300" channel="Fish TV HD">
     <title lang="pt">Coração de Pescador</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905143000 -0300" stop="20190905150000 -0300" channel="FISH TV HD">
+  <programme start="20190905143000 -0300" stop="20190905150000 -0300" channel="Fish TV HD">
     <title lang="pt">Família Nakamura</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905150000 -0300" stop="20190905153000 -0300" channel="FISH TV HD">
+  <programme start="20190905150000 -0300" stop="20190905153000 -0300" channel="Fish TV HD">
     <title lang="pt">Remos e Rumos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905153000 -0300" stop="20190905163000 -0300" channel="FISH TV HD">
+  <programme start="20190905153000 -0300" stop="20190905163000 -0300" channel="Fish TV HD">
     <title lang="pt">A Meta</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905163000 -0300" stop="20190905170000 -0300" channel="FISH TV HD">
+  <programme start="20190905163000 -0300" stop="20190905170000 -0300" channel="Fish TV HD">
     <title lang="pt">Melhores Destinos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905170000 -0300" stop="20190905180000 -0300" channel="FISH TV HD">
+  <programme start="20190905170000 -0300" stop="20190905180000 -0300" channel="Fish TV HD">
     <title lang="pt">Na Pegada do Fly</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905180000 -0300" stop="20190905190000 -0300" channel="FISH TV HD">
+  <programme start="20190905180000 -0300" stop="20190905190000 -0300" channel="Fish TV HD">
     <title lang="pt">Pura Pesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905190000 -0300" stop="20190905193000 -0300" channel="FISH TV HD">
+  <programme start="20190905190000 -0300" stop="20190905193000 -0300" channel="Fish TV HD">
     <title lang="pt">Provas e Torneios</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905193000 -0300" stop="20190905200000 -0300" channel="FISH TV HD">
+  <programme start="20190905193000 -0300" stop="20190905200000 -0300" channel="Fish TV HD">
     <title lang="pt">Fish TV News</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905200000 -0300" stop="20190905203000 -0300" channel="FISH TV HD">
+  <programme start="20190905200000 -0300" stop="20190905203000 -0300" channel="Fish TV HD">
     <title lang="pt">Biopesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905203000 -0300" stop="20190905210000 -0300" channel="FISH TV HD">
+  <programme start="20190905203000 -0300" stop="20190905210000 -0300" channel="Fish TV HD">
     <title lang="pt">Família Nakamura</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905210000 -0300" stop="20190905213000 -0300" channel="FISH TV HD">
+  <programme start="20190905210000 -0300" stop="20190905213000 -0300" channel="Fish TV HD">
     <title lang="pt">Remos e Rumos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905213000 -0300" stop="20190905220000 -0300" channel="FISH TV HD">
+  <programme start="20190905213000 -0300" stop="20190905220000 -0300" channel="Fish TV HD">
     <title lang="pt">Sabores</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905220000 -0300" stop="20190905223000 -0300" channel="FISH TV HD">
+  <programme start="20190905220000 -0300" stop="20190905223000 -0300" channel="Fish TV HD">
     <title lang="pt">Elas na Pesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905223000 -0300" stop="20190905230000 -0300" channel="FISH TV HD">
+  <programme start="20190905223000 -0300" stop="20190905230000 -0300" channel="Fish TV HD">
     <title lang="pt">Destinos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905230000 -0300" stop="20190905233000 -0300" channel="FISH TV HD">
+  <programme start="20190905230000 -0300" stop="20190905233000 -0300" channel="Fish TV HD">
     <title lang="pt">Pesca em Ação</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905233000 -0300" stop="20190906000000 -0300" channel="FISH TV HD">
+  <programme start="20190905233000 -0300" stop="20190906000000 -0300" channel="Fish TV HD">
     <title lang="pt">Pasión Por La Pesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906000000 -0300" stop="20190906030000 -0300" channel="FISH TV HD">
+  <programme start="20190906000000 -0300" stop="20190906030000 -0300" channel="Fish TV HD">
     <title lang="pt">TV Shopping Brasil</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906030000 -0300" stop="20190906032000 -0300" channel="FISH TV HD">
+  <programme start="20190906030000 -0300" stop="20190906032000 -0300" channel="Fish TV HD">
     <title lang="pt">Aqua Negócios</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906032000 -0300" stop="20190906034500 -0300" channel="FISH TV HD">
+  <programme start="20190906032000 -0300" stop="20190906034500 -0300" channel="Fish TV HD">
     <title lang="pt">Pesca Dinâmica</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906034500 -0300" stop="20190906043500 -0300" channel="FISH TV HD">
+  <programme start="20190906034500 -0300" stop="20190906043500 -0300" channel="Fish TV HD">
     <title lang="pt">Campeonato Brasileiro em Pesqueiros</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906043500 -0300" stop="20190906052500 -0300" channel="FISH TV HD">
+  <programme start="20190906043500 -0300" stop="20190906052500 -0300" channel="Fish TV HD">
     <title lang="pt">Pesque e Pague</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906052500 -0300" stop="20190906054500 -0300" channel="FISH TV HD">
+  <programme start="20190906052500 -0300" stop="20190906054500 -0300" channel="Fish TV HD">
     <title lang="pt">Provas e Torneios</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906054500 -0300" stop="20190906061000 -0300" channel="FISH TV HD">
+  <programme start="20190906054500 -0300" stop="20190906061000 -0300" channel="Fish TV HD">
     <title lang="pt">Ases da Pesca em Ação</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906061000 -0300" stop="20190906063500 -0300" channel="FISH TV HD">
+  <programme start="20190906061000 -0300" stop="20190906063500 -0300" channel="Fish TV HD">
     <title lang="pt">Pasión Por La Pesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906063500 -0300" stop="20190906072500 -0300" channel="FISH TV HD">
+  <programme start="20190906063500 -0300" stop="20190906072500 -0300" channel="Fish TV HD">
     <title lang="pt">A Meta</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906072500 -0300" stop="20190906081000 -0300" channel="FISH TV HD">
+  <programme start="20190906072500 -0300" stop="20190906081000 -0300" channel="Fish TV HD">
     <title lang="pt">Na Pegada do Fly</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906081000 -0300" stop="20190906083500 -0300" channel="FISH TV HD">
+  <programme start="20190906081000 -0300" stop="20190906083500 -0300" channel="Fish TV HD">
     <title lang="pt">Melhores Destinos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906083500 -0300" stop="20190906090000 -0300" channel="FISH TV HD">
+  <programme start="20190906083500 -0300" stop="20190906090000 -0300" channel="Fish TV HD">
     <title lang="pt">Elas na Pesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906090000 -0300" stop="20190906093000 -0300" channel="FISH TV HD">
+  <programme start="20190906090000 -0300" stop="20190906093000 -0300" channel="Fish TV HD">
     <title lang="pt">Sabores</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906093000 -0300" stop="20190906100000 -0300" channel="FISH TV HD">
+  <programme start="20190906093000 -0300" stop="20190906100000 -0300" channel="Fish TV HD">
     <title lang="pt">Pesca em Ação</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906100000 -0300" stop="20190906103000 -0300" channel="FISH TV HD">
+  <programme start="20190906100000 -0300" stop="20190906103000 -0300" channel="Fish TV HD">
     <title lang="pt">A Arte do Atado</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906103000 -0300" stop="20190906113000 -0300" channel="FISH TV HD">
+  <programme start="20190906103000 -0300" stop="20190906113000 -0300" channel="Fish TV HD">
     <title lang="pt">Na Pegada do Fly</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906113000 -0300" stop="20190906120000 -0300" channel="FISH TV HD">
+  <programme start="20190906113000 -0300" stop="20190906120000 -0300" channel="Fish TV HD">
     <title lang="pt">Mar de Histórias</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906120000 -0300" stop="20190906123000 -0300" channel="FISH TV HD">
+  <programme start="20190906120000 -0300" stop="20190906123000 -0300" channel="Fish TV HD">
     <title lang="pt">Pasión Por La Pesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906123000 -0300" stop="20190906133000 -0300" channel="FISH TV HD">
+  <programme start="20190906123000 -0300" stop="20190906133000 -0300" channel="Fish TV HD">
     <title lang="pt">Pura Pesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906133000 -0300" stop="20190906140000 -0300" channel="FISH TV HD">
+  <programme start="20190906133000 -0300" stop="20190906140000 -0300" channel="Fish TV HD">
     <title lang="pt">Pesca Dinâmica</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906140000 -0300" stop="20190906143000 -0300" channel="FISH TV HD">
+  <programme start="20190906140000 -0300" stop="20190906143000 -0300" channel="Fish TV HD">
     <title lang="pt">Elas na Pesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906143000 -0300" stop="20190906150000 -0300" channel="FISH TV HD">
+  <programme start="20190906143000 -0300" stop="20190906150000 -0300" channel="Fish TV HD">
     <title lang="pt">Destinos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906150000 -0300" stop="20190906153000 -0300" channel="FISH TV HD">
+  <programme start="20190906150000 -0300" stop="20190906153000 -0300" channel="Fish TV HD">
     <title lang="pt">Pesca em Ação</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906153000 -0300" stop="20190906160000 -0300" channel="FISH TV HD">
+  <programme start="20190906153000 -0300" stop="20190906160000 -0300" channel="Fish TV HD">
     <title lang="pt">Fish TV News</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906160000 -0300" stop="20190906170000 -0300" channel="FISH TV HD">
+  <programme start="20190906160000 -0300" stop="20190906170000 -0300" channel="Fish TV HD">
     <title lang="pt">Campeonato Brasileiro em Pesqueiros</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906170000 -0300" stop="20190906173000 -0300" channel="FISH TV HD">
+  <programme start="20190906170000 -0300" stop="20190906173000 -0300" channel="Fish TV HD">
     <title lang="pt">Provas e Torneios</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906173000 -0300" stop="20190906180000 -0300" channel="FISH TV HD">
+  <programme start="20190906173000 -0300" stop="20190906180000 -0300" channel="Fish TV HD">
     <title lang="pt">Remos e Rumos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906180000 -0300" stop="20190906183000 -0300" channel="FISH TV HD">
+  <programme start="20190906180000 -0300" stop="20190906183000 -0300" channel="Fish TV HD">
     <title lang="pt">Biopesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906183000 -0300" stop="20190906190000 -0300" channel="FISH TV HD">
+  <programme start="20190906183000 -0300" stop="20190906190000 -0300" channel="Fish TV HD">
     <title lang="pt">Aquarismo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906190000 -0300" stop="20190906193000 -0300" channel="FISH TV HD">
+  <programme start="20190906190000 -0300" stop="20190906193000 -0300" channel="Fish TV HD">
     <title lang="pt">Saltwater</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906193000 -0300" stop="20190906200000 -0300" channel="FISH TV HD">
+  <programme start="20190906193000 -0300" stop="20190906200000 -0300" channel="Fish TV HD">
     <title lang="pt">Aqua Negócios</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906200000 -0300" stop="20190906203000 -0300" channel="FISH TV HD">
+  <programme start="20190906200000 -0300" stop="20190906203000 -0300" channel="Fish TV HD">
     <title lang="pt">Família Nakamura</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906203000 -0300" stop="20190906210000 -0300" channel="FISH TV HD">
+  <programme start="20190906203000 -0300" stop="20190906210000 -0300" channel="Fish TV HD">
     <title lang="pt">Fish TV News</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906210000 -0300" stop="20190906220000 -0300" channel="FISH TV HD">
+  <programme start="20190906210000 -0300" stop="20190906220000 -0300" channel="Fish TV HD">
     <title lang="pt">A Meta</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906220000 -0300" stop="20190906223000 -0300" channel="FISH TV HD">
+  <programme start="20190906220000 -0300" stop="20190906223000 -0300" channel="Fish TV HD">
     <title lang="pt">Mar de Histórias</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906223000 -0300" stop="20190906233000 -0300" channel="FISH TV HD">
+  <programme start="20190906223000 -0300" stop="20190906233000 -0300" channel="Fish TV HD">
     <title lang="pt">Coração de Pescador</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906233000 -0300" stop="20190907000000 -0300" channel="FISH TV HD">
+  <programme start="20190906233000 -0300" stop="20190907000000 -0300" channel="Fish TV HD">
     <title lang="pt">Elas na Pesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907000000 -0300" stop="20190907030000 -0300" channel="FISH TV HD">
+  <programme start="20190907000000 -0300" stop="20190907030000 -0300" channel="Fish TV HD">
     <title lang="pt">TV Shopping Brasil</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907030000 -0300" stop="20190907034500 -0300" channel="FISH TV HD">
+  <programme start="20190907030000 -0300" stop="20190907034500 -0300" channel="Fish TV HD">
     <title lang="pt">Pesque e Pague</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907034500 -0300" stop="20190907043500 -0300" channel="FISH TV HD">
+  <programme start="20190907034500 -0300" stop="20190907043500 -0300" channel="Fish TV HD">
     <title lang="pt">Campeonato Brasileiro em Pesqueiros</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907043500 -0300" stop="20190907050000 -0300" channel="FISH TV HD">
+  <programme start="20190907043500 -0300" stop="20190907050000 -0300" channel="Fish TV HD">
     <title lang="pt">Provas e Torneios</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907050000 -0300" stop="20190907052500 -0300" channel="FISH TV HD">
+  <programme start="20190907050000 -0300" stop="20190907052500 -0300" channel="Fish TV HD">
     <title lang="pt">Fish TV News</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907052500 -0300" stop="20190907054500 -0300" channel="FISH TV HD">
+  <programme start="20190907052500 -0300" stop="20190907054500 -0300" channel="Fish TV HD">
     <title lang="pt">Aqua Negócios</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907054500 -0300" stop="20190907061000 -0300" channel="FISH TV HD">
+  <programme start="20190907054500 -0300" stop="20190907061000 -0300" channel="Fish TV HD">
     <title lang="pt">Ases da Pesca em Ação</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907061000 -0300" stop="20190907063500 -0300" channel="FISH TV HD">
+  <programme start="20190907061000 -0300" stop="20190907063500 -0300" channel="Fish TV HD">
     <title lang="pt">Mar de Histórias</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907063500 -0300" stop="20190907072500 -0300" channel="FISH TV HD">
+  <programme start="20190907063500 -0300" stop="20190907072500 -0300" channel="Fish TV HD">
     <title lang="pt">Pesque e Pague</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907072500 -0300" stop="20190907075000 -0300" channel="FISH TV HD">
+  <programme start="20190907072500 -0300" stop="20190907075000 -0300" channel="Fish TV HD">
     <title lang="pt">Pasión Por La Pesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907075000 -0300" stop="20190907081500 -0300" channel="FISH TV HD">
+  <programme start="20190907075000 -0300" stop="20190907081500 -0300" channel="Fish TV HD">
     <title lang="pt">A Arte do Atado</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907081500 -0300" stop="20190907083500 -0300" channel="FISH TV HD">
+  <programme start="20190907081500 -0300" stop="20190907083500 -0300" channel="Fish TV HD">
     <title lang="pt">Elas na Pesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907083500 -0300" stop="20190907090000 -0300" channel="FISH TV HD">
+  <programme start="20190907083500 -0300" stop="20190907090000 -0300" channel="Fish TV HD">
     <title lang="pt">Pesca Dinâmica</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907090000 -0300" stop="20190907100000 -0300" channel="FISH TV HD">
+  <programme start="20190907090000 -0300" stop="20190907100000 -0300" channel="Fish TV HD">
     <title lang="pt">Coração de Pescador</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907100000 -0300" stop="20190907103000 -0300" channel="FISH TV HD">
+  <programme start="20190907100000 -0300" stop="20190907103000 -0300" channel="Fish TV HD">
     <title lang="pt">Destinos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907103000 -0300" stop="20190907110000 -0300" channel="FISH TV HD">
+  <programme start="20190907103000 -0300" stop="20190907110000 -0300" channel="Fish TV HD">
     <title lang="pt">Pesca Dinâmica</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907110000 -0300" stop="20190907120000 -0300" channel="FISH TV HD">
+  <programme start="20190907110000 -0300" stop="20190907120000 -0300" channel="Fish TV HD">
     <title lang="pt">Campeonato Brasileiro em Pesqueiros</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907120000 -0300" stop="20190907123000 -0300" channel="FISH TV HD">
+  <programme start="20190907120000 -0300" stop="20190907123000 -0300" channel="Fish TV HD">
     <title lang="pt">Provas e Torneios</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907123000 -0300" stop="20190907133000 -0300" channel="FISH TV HD">
+  <programme start="20190907123000 -0300" stop="20190907133000 -0300" channel="Fish TV HD">
     <title lang="pt">Na Pegada do Fly</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907133000 -0300" stop="20190907140000 -0300" channel="FISH TV HD">
+  <programme start="20190907133000 -0300" stop="20190907140000 -0300" channel="Fish TV HD">
     <title lang="pt">Aquarismo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907140000 -0300" stop="20190907143000 -0300" channel="FISH TV HD">
+  <programme start="20190907140000 -0300" stop="20190907143000 -0300" channel="Fish TV HD">
     <title lang="pt">Saltwater</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907143000 -0300" stop="20190907150000 -0300" channel="FISH TV HD">
+  <programme start="20190907143000 -0300" stop="20190907150000 -0300" channel="Fish TV HD">
     <title lang="pt">Aqua Negócios</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907150000 -0300" stop="20190907153000 -0300" channel="FISH TV HD">
+  <programme start="20190907150000 -0300" stop="20190907153000 -0300" channel="Fish TV HD">
     <title lang="pt">Biopesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907153000 -0300" stop="20190907160000 -0300" channel="FISH TV HD">
+  <programme start="20190907153000 -0300" stop="20190907160000 -0300" channel="Fish TV HD">
     <title lang="pt">Pasión Por La Pesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907160000 -0300" stop="20190907163000 -0300" channel="FISH TV HD">
+  <programme start="20190907160000 -0300" stop="20190907163000 -0300" channel="Fish TV HD">
     <title lang="pt">Mar de Histórias</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907163000 -0300" stop="20190907170000 -0300" channel="FISH TV HD">
+  <programme start="20190907163000 -0300" stop="20190907170000 -0300" channel="Fish TV HD">
     <title lang="pt">Família Nakamura</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907170000 -0300" stop="20190907180000 -0300" channel="FISH TV HD">
+  <programme start="20190907170000 -0300" stop="20190907180000 -0300" channel="Fish TV HD">
     <title lang="pt">A Meta</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907180000 -0300" stop="20190907190000 -0300" channel="FISH TV HD">
+  <programme start="20190907180000 -0300" stop="20190907190000 -0300" channel="Fish TV HD">
     <title lang="pt">Pura Pesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907190000 -0300" stop="20190907200000 -0300" channel="FISH TV HD">
+  <programme start="20190907190000 -0300" stop="20190907200000 -0300" channel="Fish TV HD">
     <title lang="pt">A Meta</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907200000 -0300" stop="20190907203000 -0300" channel="FISH TV HD">
+  <programme start="20190907200000 -0300" stop="20190907203000 -0300" channel="Fish TV HD">
     <title lang="pt">Sabores</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907203000 -0300" stop="20190907210000 -0300" channel="FISH TV HD">
+  <programme start="20190907203000 -0300" stop="20190907210000 -0300" channel="Fish TV HD">
     <title lang="pt">Elas na Pesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907210000 -0300" stop="20190907213000 -0300" channel="FISH TV HD">
+  <programme start="20190907210000 -0300" stop="20190907213000 -0300" channel="Fish TV HD">
     <title lang="pt">Melhores Destinos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907213000 -0300" stop="20190907220000 -0300" channel="FISH TV HD">
+  <programme start="20190907213000 -0300" stop="20190907220000 -0300" channel="Fish TV HD">
     <title lang="pt">Pesca em Ação</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907220000 -0300" stop="20190907223000 -0300" channel="FISH TV HD">
+  <programme start="20190907220000 -0300" stop="20190907223000 -0300" channel="Fish TV HD">
     <title lang="pt">Biopesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907223000 -0300" stop="20190907230000 -0300" channel="FISH TV HD">
+  <programme start="20190907223000 -0300" stop="20190907230000 -0300" channel="Fish TV HD">
     <title lang="pt">Família Nakamura</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907230000 -0300" stop="20190907233000 -0300" channel="FISH TV HD">
+  <programme start="20190907230000 -0300" stop="20190907233000 -0300" channel="Fish TV HD">
     <title lang="pt">Saltwater</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907233000 -0300" stop="20190908000000 -0300" channel="FISH TV HD">
+  <programme start="20190907233000 -0300" stop="20190908000000 -0300" channel="Fish TV HD">
     <title lang="pt">Remos e Rumos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908000000 -0300" stop="20190908030000 -0300" channel="FISH TV HD">
+  <programme start="20190908000000 -0300" stop="20190908030000 -0300" channel="Fish TV HD">
     <title lang="pt">TV Shopping Brasil</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908030000 -0300" stop="20190908032000 -0300" channel="FISH TV HD">
+  <programme start="20190908030000 -0300" stop="20190908032000 -0300" channel="Fish TV HD">
     <title lang="pt">A Arte do Atado</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908032000 -0300" stop="20190908034500 -0300" channel="FISH TV HD">
+  <programme start="20190908032000 -0300" stop="20190908034500 -0300" channel="Fish TV HD">
     <title lang="pt">Melhores Destinos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908034500 -0300" stop="20190908041000 -0300" channel="FISH TV HD">
+  <programme start="20190908034500 -0300" stop="20190908041000 -0300" channel="Fish TV HD">
     <title lang="pt">Ases da Pesca em Ação</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908041000 -0300" stop="20190908043500 -0300" channel="FISH TV HD">
+  <programme start="20190908041000 -0300" stop="20190908043500 -0300" channel="Fish TV HD">
     <title lang="pt">Elas na Pesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908043500 -0300" stop="20190908050000 -0300" channel="FISH TV HD">
+  <programme start="20190908043500 -0300" stop="20190908050000 -0300" channel="Fish TV HD">
     <title lang="pt">Mar de Histórias</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908050000 -0300" stop="20190908052500 -0300" channel="FISH TV HD">
+  <programme start="20190908050000 -0300" stop="20190908052500 -0300" channel="Fish TV HD">
     <title lang="pt">Pasión Por La Pesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908052500 -0300" stop="20190908055000 -0300" channel="FISH TV HD">
+  <programme start="20190908052500 -0300" stop="20190908055000 -0300" channel="Fish TV HD">
     <title lang="pt">Provas e Torneios</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908055000 -0300" stop="20190908061500 -0300" channel="FISH TV HD">
+  <programme start="20190908055000 -0300" stop="20190908061500 -0300" channel="Fish TV HD">
     <title lang="pt">A Arte do Atado</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908061500 -0300" stop="20190908070000 -0300" channel="FISH TV HD">
+  <programme start="20190908061500 -0300" stop="20190908070000 -0300" channel="Fish TV HD">
     <title lang="pt">Na Pegada do Fly</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908070000 -0300" stop="20190908075000 -0300" channel="FISH TV HD">
+  <programme start="20190908070000 -0300" stop="20190908075000 -0300" channel="Fish TV HD">
     <title lang="pt">A Meta</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908075000 -0300" stop="20190908081500 -0300" channel="FISH TV HD">
+  <programme start="20190908075000 -0300" stop="20190908081500 -0300" channel="Fish TV HD">
     <title lang="pt">Pesca em Ação</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908081500 -0300" stop="20190908083500 -0300" channel="FISH TV HD">
+  <programme start="20190908081500 -0300" stop="20190908083500 -0300" channel="Fish TV HD">
     <title lang="pt">Biopesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908083500 -0300" stop="20190908090000 -0300" channel="FISH TV HD">
+  <programme start="20190908083500 -0300" stop="20190908090000 -0300" channel="Fish TV HD">
     <title lang="pt">Família Nakamura</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908090000 -0300" stop="20190908093000 -0300" channel="FISH TV HD">
+  <programme start="20190908090000 -0300" stop="20190908093000 -0300" channel="Fish TV HD">
     <title lang="pt">Provas e Torneios</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908093000 -0300" stop="20190908100000 -0300" channel="FISH TV HD">
+  <programme start="20190908093000 -0300" stop="20190908100000 -0300" channel="Fish TV HD">
     <title lang="pt">Pesca Dinâmica</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908100000 -0300" stop="20190908103000 -0300" channel="FISH TV HD">
+  <programme start="20190908100000 -0300" stop="20190908103000 -0300" channel="Fish TV HD">
     <title lang="pt">Fish TV News</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908103000 -0300" stop="20190908113000 -0300" channel="FISH TV HD">
+  <programme start="20190908103000 -0300" stop="20190908113000 -0300" channel="Fish TV HD">
     <title lang="pt">Campeonato Brasileiro em Pesqueiros</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908113000 -0300" stop="20190908123000 -0300" channel="FISH TV HD">
+  <programme start="20190908113000 -0300" stop="20190908123000 -0300" channel="Fish TV HD">
     <title lang="pt">Pura Pesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908123000 -0300" stop="20190908130000 -0300" channel="FISH TV HD">
+  <programme start="20190908123000 -0300" stop="20190908130000 -0300" channel="Fish TV HD">
     <title lang="pt">Elas na Pesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908130000 -0300" stop="20190908133000 -0300" channel="FISH TV HD">
+  <programme start="20190908130000 -0300" stop="20190908133000 -0300" channel="Fish TV HD">
     <title lang="pt">Sabores</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908133000 -0300" stop="20190908140000 -0300" channel="FISH TV HD">
+  <programme start="20190908133000 -0300" stop="20190908140000 -0300" channel="Fish TV HD">
     <title lang="pt">Família Nakamura</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908140000 -0300" stop="20190908143000 -0300" channel="FISH TV HD">
+  <programme start="20190908140000 -0300" stop="20190908143000 -0300" channel="Fish TV HD">
     <title lang="pt">Remos e Rumos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908143000 -0300" stop="20190908150000 -0300" channel="FISH TV HD">
+  <programme start="20190908143000 -0300" stop="20190908150000 -0300" channel="Fish TV HD">
     <title lang="pt">Saltwater</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908150000 -0300" stop="20190908153000 -0300" channel="FISH TV HD">
+  <programme start="20190908150000 -0300" stop="20190908153000 -0300" channel="Fish TV HD">
     <title lang="pt">Fish TV News</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908153000 -0300" stop="20190908160000 -0300" channel="FISH TV HD">
+  <programme start="20190908153000 -0300" stop="20190908160000 -0300" channel="Fish TV HD">
     <title lang="pt">Pesca em Ação</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908160000 -0300" stop="20190908170000 -0300" channel="FISH TV HD">
+  <programme start="20190908160000 -0300" stop="20190908170000 -0300" channel="Fish TV HD">
     <title lang="pt">A Meta</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908170000 -0300" stop="20190908173000 -0300" channel="FISH TV HD">
+  <programme start="20190908170000 -0300" stop="20190908173000 -0300" channel="Fish TV HD">
     <title lang="pt">Pasión Por La Pesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908173000 -0300" stop="20190908180000 -0300" channel="FISH TV HD">
+  <programme start="20190908173000 -0300" stop="20190908180000 -0300" channel="Fish TV HD">
     <title lang="pt">Destinos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908180000 -0300" stop="20190908190000 -0300" channel="FISH TV HD">
+  <programme start="20190908180000 -0300" stop="20190908190000 -0300" channel="Fish TV HD">
     <title lang="pt">Coração de Pescador</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908190000 -0300" stop="20190908193000 -0300" channel="FISH TV HD">
+  <programme start="20190908190000 -0300" stop="20190908193000 -0300" channel="Fish TV HD">
     <title lang="pt">Aqua Negócios</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908193000 -0300" stop="20190908200000 -0300" channel="FISH TV HD">
+  <programme start="20190908193000 -0300" stop="20190908200000 -0300" channel="Fish TV HD">
     <title lang="pt">Aquarismo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908200000 -0300" stop="20190908210000 -0300" channel="FISH TV HD">
+  <programme start="20190908200000 -0300" stop="20190908210000 -0300" channel="Fish TV HD">
     <title lang="pt">Campeonato Brasileiro em Pesqueiros</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908210000 -0300" stop="20190908220000 -0300" channel="FISH TV HD">
+  <programme start="20190908210000 -0300" stop="20190908220000 -0300" channel="Fish TV HD">
     <title lang="pt">Pesque e Pague</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908220000 -0300" stop="20190908230000 -0300" channel="FISH TV HD">
+  <programme start="20190908220000 -0300" stop="20190908230000 -0300" channel="Fish TV HD">
     <title lang="pt">Na Pegada do Fly</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908230000 -0300" stop="20190908233000 -0300" channel="FISH TV HD">
+  <programme start="20190908230000 -0300" stop="20190908233000 -0300" channel="Fish TV HD">
     <title lang="pt">Biopesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908233000 -0300" stop="20190909000000 -0300" channel="FISH TV HD">
+  <programme start="20190908233000 -0300" stop="20190909000000 -0300" channel="Fish TV HD">
     <title lang="pt">Mar de Histórias</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909000000 -0300" stop="20190909030000 -0300" channel="FISH TV HD">
+  <programme start="20190909000000 -0300" stop="20190909030000 -0300" channel="Fish TV HD">
     <title lang="pt">TV Shopping Brasil</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909030000 -0300" stop="20190909034500 -0300" channel="FISH TV HD">
+  <programme start="20190909030000 -0300" stop="20190909034500 -0300" channel="Fish TV HD">
     <title lang="pt">Campeonato Brasileiro em Pesqueiros</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909034500 -0300" stop="20190909041000 -0300" channel="FISH TV HD">
+  <programme start="20190909034500 -0300" stop="20190909041000 -0300" channel="Fish TV HD">
     <title lang="pt">Provas e Torneios</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909041000 -0300" stop="20190909050000 -0300" channel="FISH TV HD">
+  <programme start="20190909041000 -0300" stop="20190909050000 -0300" channel="Fish TV HD">
     <title lang="pt">Pesque e Pague</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909050000 -0300" stop="20190909052500 -0300" channel="FISH TV HD">
+  <programme start="20190909050000 -0300" stop="20190909052500 -0300" channel="Fish TV HD">
     <title lang="pt">Mar de Histórias</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909052500 -0300" stop="20190909055000 -0300" channel="FISH TV HD">
+  <programme start="20190909052500 -0300" stop="20190909055000 -0300" channel="Fish TV HD">
     <title lang="pt">Ases da Pesca em Ação</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909055000 -0300" stop="20190909061500 -0300" channel="FISH TV HD">
+  <programme start="20190909055000 -0300" stop="20190909061500 -0300" channel="Fish TV HD">
     <title lang="pt">Melhores Destinos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909061500 -0300" stop="20190909063500 -0300" channel="FISH TV HD">
+  <programme start="20190909061500 -0300" stop="20190909063500 -0300" channel="Fish TV HD">
     <title lang="pt">Elas na Pesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909063500 -0300" stop="20190909070000 -0300" channel="FISH TV HD">
+  <programme start="20190909063500 -0300" stop="20190909070000 -0300" channel="Fish TV HD">
     <title lang="pt">A Arte do Atado</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909070000 -0300" stop="20190909075000 -0300" channel="FISH TV HD">
+  <programme start="20190909070000 -0300" stop="20190909075000 -0300" channel="Fish TV HD">
     <title lang="pt">Na Pegada do Fly</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909075000 -0300" stop="20190909081500 -0300" channel="FISH TV HD">
+  <programme start="20190909075000 -0300" stop="20190909081500 -0300" channel="Fish TV HD">
     <title lang="pt">Biopesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909081500 -0300" stop="20190909090000 -0300" channel="FISH TV HD">
+  <programme start="20190909081500 -0300" stop="20190909090000 -0300" channel="Fish TV HD">
     <title lang="pt">A Meta</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909090000 -0300" stop="20190909093000 -0300" channel="FISH TV HD">
+  <programme start="20190909090000 -0300" stop="20190909093000 -0300" channel="Fish TV HD">
     <title lang="pt">Fish TV News</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909093000 -0300" stop="20190909100000 -0300" channel="FISH TV HD">
+  <programme start="20190909093000 -0300" stop="20190909100000 -0300" channel="Fish TV HD">
     <title lang="pt">Aquarismo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909100000 -0300" stop="20190909103000 -0300" channel="FISH TV HD">
+  <programme start="20190909100000 -0300" stop="20190909103000 -0300" channel="Fish TV HD">
     <title lang="pt">Pesca Dinâmica</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909103000 -0300" stop="20190909113000 -0300" channel="FISH TV HD">
+  <programme start="20190909103000 -0300" stop="20190909113000 -0300" channel="Fish TV HD">
     <title lang="pt">Coração de Pescador</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909113000 -0300" stop="20190909120000 -0300" channel="FISH TV HD">
+  <programme start="20190909113000 -0300" stop="20190909120000 -0300" channel="Fish TV HD">
     <title lang="pt">Pasión Por La Pesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909120000 -0300" stop="20190909123000 -0300" channel="FISH TV HD">
+  <programme start="20190909120000 -0300" stop="20190909123000 -0300" channel="Fish TV HD">
     <title lang="pt">Destinos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909123000 -0300" stop="20190909130000 -0300" channel="FISH TV HD">
+  <programme start="20190909123000 -0300" stop="20190909130000 -0300" channel="Fish TV HD">
     <title lang="pt">Sabores</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909130000 -0300" stop="20190909133000 -0300" channel="FISH TV HD">
+  <programme start="20190909130000 -0300" stop="20190909133000 -0300" channel="Fish TV HD">
     <title lang="pt">Elas na Pesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909133000 -0300" stop="20190909140000 -0300" channel="FISH TV HD">
+  <programme start="20190909133000 -0300" stop="20190909140000 -0300" channel="Fish TV HD">
     <title lang="pt">Família Nakamura</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909140000 -0300" stop="20190909143000 -0300" channel="FISH TV HD">
+  <programme start="20190909140000 -0300" stop="20190909143000 -0300" channel="Fish TV HD">
     <title lang="pt">Pesca em Ação</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909143000 -0300" stop="20190909153000 -0300" channel="FISH TV HD">
+  <programme start="20190909143000 -0300" stop="20190909153000 -0300" channel="Fish TV HD">
     <title lang="pt">Pura Pesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909153000 -0300" stop="20190909163000 -0300" channel="FISH TV HD">
+  <programme start="20190909153000 -0300" stop="20190909163000 -0300" channel="Fish TV HD">
     <title lang="pt">Pesque e Pague</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909163000 -0300" stop="20190909170000 -0300" channel="FISH TV HD">
+  <programme start="20190909163000 -0300" stop="20190909170000 -0300" channel="Fish TV HD">
     <title lang="pt">Fish TV News</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909170000 -0300" stop="20190909180000 -0300" channel="FISH TV HD">
+  <programme start="20190909170000 -0300" stop="20190909180000 -0300" channel="Fish TV HD">
     <title lang="pt">Campeonato Brasileiro em Pesqueiros</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909180000 -0300" stop="20190909183000 -0300" channel="FISH TV HD">
+  <programme start="20190909180000 -0300" stop="20190909183000 -0300" channel="Fish TV HD">
     <title lang="pt">Provas e Torneios</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909183000 -0300" stop="20190909190000 -0300" channel="FISH TV HD">
+  <programme start="20190909183000 -0300" stop="20190909190000 -0300" channel="Fish TV HD">
     <title lang="pt">Aqua Negócios</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909190000 -0300" stop="20190909200000 -0300" channel="FISH TV HD">
+  <programme start="20190909190000 -0300" stop="20190909200000 -0300" channel="Fish TV HD">
     <title lang="pt">Pura Pesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909200000 -0300" stop="20190909203000 -0300" channel="FISH TV HD">
+  <programme start="20190909200000 -0300" stop="20190909203000 -0300" channel="Fish TV HD">
     <title lang="pt">Biopesca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909203000 -0300" stop="20190909210000 -0300" channel="FISH TV HD">
+  <programme start="20190909203000 -0300" stop="20190909210000 -0300" channel="Fish TV HD">
     <title lang="pt">Saltwater</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909210000 -0300" stop="20190909213000 -0300" channel="FISH TV HD">
+  <programme start="20190909210000 -0300" stop="20190909213000 -0300" channel="Fish TV HD">
     <title lang="pt">Família Nakamura</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909213000 -0300" stop="20190909220000 -0300" channel="FISH TV HD">
+  <programme start="20190909213000 -0300" stop="20190909220000 -0300" channel="Fish TV HD">
     <title lang="pt">Remos e Rumos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909220000 -0300" stop="20190909230000 -0300" channel="FISH TV HD">
+  <programme start="20190909220000 -0300" stop="20190909230000 -0300" channel="Fish TV HD">
     <title lang="pt">A Meta</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909230000 -0300" stop="20190910000000 -0300" channel="FISH TV HD">
+  <programme start="20190909230000 -0300" stop="20190910000000 -0300" channel="Fish TV HD">
     <title lang="pt">Na Pegada do Fly</title>
     <star-rating>
       <value>1.0</value>
@@ -38593,79 +38000,85 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903231500 -0300" stop="20190904000000 -0300" channel="Fox Life HD">
+  <programme start="20190903231500 -0300" stop="20190903231500 -0300" channel="Fox Life HD">
     <title lang="pt">Law &amp; Order: Criminal Intent</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904000000 -0300" stop="20190904005000 -0300" channel="Fox Life HD">
+  <programme start="20190903231500 -0300" stop="20190904000100 -0300" channel="Fox Life HD">
     <title lang="pt">Law &amp; Order: Criminal Intent</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904005000 -0300" stop="20190904014000 -0300" channel="Fox Life HD">
+  <programme start="20190904000100 -0300" stop="20190904004600 -0300" channel="Fox Life HD">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904004600 -0300" stop="20190904013000 -0300" channel="Fox Life HD">
     <title lang="pt">S.W.A.T.</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904014000 -0300" stop="20190904023000 -0300" channel="Fox Life HD">
+  <programme start="20190904013000 -0300" stop="20190904021600 -0300" channel="Fox Life HD">
     <title lang="pt">Private Eyes</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904023000 -0300" stop="20190904032000 -0300" channel="Fox Life HD">
+  <programme start="20190904021600 -0300" stop="20190904030300 -0300" channel="Fox Life HD">
     <title lang="pt">Emergências Médicas</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904032000 -0300" stop="20190904041000 -0300" channel="Fox Life HD">
+  <programme start="20190904030300 -0300" stop="20190904035000 -0300" channel="Fox Life HD">
     <title lang="pt">Emergências Médicas</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904041000 -0300" stop="20190904050000 -0300" channel="Fox Life HD">
-    <title lang="pt">A Irmandade</title>
+  <programme start="20190904035000 -0300" stop="20190904043600 -0300" channel="Fox Life HD">
+    <title lang="pt">Emergências Médicas</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904050000 -0300" stop="20190904054500 -0300" channel="Fox Life HD">
-    <title lang="pt">A Irmandade</title>
+  <programme start="20190904043600 -0300" stop="20190904052400 -0300" channel="Fox Life HD">
+    <title lang="pt">Emergências Médicas</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904054500 -0300" stop="20190904061000 -0300" channel="Fox Life HD">
+  <programme start="20190904052400 -0300" stop="20190904054900 -0300" channel="Fox Life HD">
     <title lang="pt">Life in Pieces</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904061000 -0300" stop="20190904063500 -0300" channel="Fox Life HD">
+  <programme start="20190904054900 -0300" stop="20190904061300 -0300" channel="Fox Life HD">
     <title lang="pt">Life in Pieces</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904063500 -0300" stop="20190904070000 -0300" channel="Fox Life HD">
+  <programme start="20190904061300 -0300" stop="20190904063800 -0300" channel="Fox Life HD">
     <title lang="pt">Life in Pieces</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904070000 -0300" stop="20190904073000 -0300" channel="Fox Life HD">
-    <title lang="pt">Programa Pago</title>
+  <programme start="20190904063800 -0300" stop="20190904070000 -0300" channel="Fox Life HD">
+    <title lang="pt">Modern Family</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904073000 -0300" stop="20190904080000 -0300" channel="Fox Life HD">
+  <programme start="20190904070000 -0300" stop="20190904080000 -0300" channel="Fox Life HD">
     <title lang="pt">Programa Pago</title>
     <star-rating>
       <value>1.0</value>
@@ -39039,13 +38452,13 @@
     </star-rating>
   </programme>
   <programme start="20190906041000 -0300" stop="20190906050000 -0300" channel="Fox Life HD">
-    <title lang="pt">A Irmandade</title>
+    <title lang="pt">Emergências Médicas</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
   <programme start="20190906050000 -0300" stop="20190906054500 -0300" channel="Fox Life HD">
-    <title lang="pt">A Irmandade</title>
+    <title lang="pt">Emergências Médicas</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
@@ -39231,13 +38644,13 @@
     </star-rating>
   </programme>
   <programme start="20190907041000 -0300" stop="20190907050000 -0300" channel="Fox Life HD">
-    <title lang="pt">Emergências Médicas</title>
+    <title lang="pt">A Irmandade</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
   <programme start="20190907050000 -0300" stop="20190907054500 -0300" channel="Fox Life HD">
-    <title lang="pt">Bones</title>
+    <title lang="pt">A Irmandade</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
@@ -39831,67 +39244,67 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903090000 -0300" stop="20190903100000 -0300" channel="FX HD">
+  <programme start="20190903090000 -0300" stop="20190903095900 -0300" channel="FX HD">
     <title lang="pt">Infomercial</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903100000 -0300" stop="20190903114000 -0300" channel="FX HD">
+  <programme start="20190903095900 -0300" stop="20190903114600 -0300" channel="FX HD">
     <title lang="pt">Irmão Natureza</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903114000 -0300" stop="20190903120500 -0300" channel="FX HD">
+  <programme start="20190903114600 -0300" stop="20190903120700 -0300" channel="FX HD">
     <title lang="pt">American Dad</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903120500 -0300" stop="20190903123000 -0300" channel="FX HD">
+  <programme start="20190903120700 -0300" stop="20190903123000 -0300" channel="FX HD">
     <title lang="pt">Uma Família da Pesada</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903123000 -0300" stop="20190903125500 -0300" channel="FX HD">
+  <programme start="20190903123000 -0300" stop="20190903125400 -0300" channel="FX HD">
     <title lang="pt">Bob's Burgers</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903125500 -0300" stop="20190903145000 -0300" channel="FX HD">
+  <programme start="20190903125400 -0300" stop="20190903145300 -0300" channel="FX HD">
     <title lang="pt">Caçador de Recompensas</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903145000 -0300" stop="20190903164500 -0300" channel="FX HD">
+  <programme start="20190903145300 -0300" stop="20190903164700 -0300" channel="FX HD">
     <title lang="pt">Missão Impossível</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903164500 -0300" stop="20190903183000 -0300" channel="FX HD">
+  <programme start="20190903164700 -0300" stop="20190903183300 -0300" channel="FX HD">
     <title lang="pt">Quebrando Regras 3</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903183000 -0300" stop="20190903202500 -0300" channel="FX HD">
+  <programme start="20190903183300 -0300" stop="20190903202800 -0300" channel="FX HD">
     <title lang="pt">A Estrada 47</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903202500 -0300" stop="20190903220000 -0300" channel="FX HD">
+  <programme start="20190903202800 -0300" stop="20190903220500 -0300" channel="FX HD">
     <title lang="pt">Carga Explosiva</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903220000 -0300" stop="20190904000500 -0300" channel="FX HD">
+  <programme start="20190903220500 -0300" stop="20190904000500 -0300" channel="FX HD">
     <title lang="pt">Missão Impossível 3</title>
     <star-rating>
       <value>1.0</value>
@@ -44761,600 +44174,600 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903002300 -0300" stop="20190903020300 -0300" channel="MAX UP HD">
+  <programme start="20190903002300 -0300" stop="20190903020300 -0300" channel="Max Up HD">
     <title lang="pt">Mera Coincidência</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903020300 -0300" stop="20190903033200 -0300" channel="MAX UP HD">
+  <programme start="20190903020300 -0300" stop="20190903033200 -0300" channel="Max Up HD">
     <title lang="pt">Esquadrão Suicida: Acerto de Contas</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903033200 -0300" stop="20190903050800 -0300" channel="MAX UP HD">
+  <programme start="20190903033200 -0300" stop="20190903050800 -0300" channel="Max Up HD">
     <title lang="pt">Uma História de Natal</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903050800 -0300" stop="20190903062800 -0300" channel="MAX UP HD">
+  <programme start="20190903050800 -0300" stop="20190903062800 -0300" channel="Max Up HD">
     <title lang="pt">Lego DC Comics Super Herois: Aquaman</title>
     <sub-title lang="pt">A Fúria de Atlântida</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903062800 -0300" stop="20190903082200 -0300" channel="MAX UP HD">
+  <programme start="20190903062800 -0300" stop="20190903082200 -0300" channel="Max Up HD">
     <title lang="pt">Loucos do Alabama</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903082200 -0300" stop="20190903101800 -0300" channel="MAX UP HD">
+  <programme start="20190903082200 -0300" stop="20190903101800 -0300" channel="Max Up HD">
     <title lang="pt">Os Goonies</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903101800 -0300" stop="20190903122000 -0300" channel="MAX UP HD">
+  <programme start="20190903101800 -0300" stop="20190903122000 -0300" channel="Max Up HD">
     <title lang="pt">Jumanji: Bem-Vindo à Selva</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903122000 -0300" stop="20190903140000 -0300" channel="MAX UP HD">
+  <programme start="20190903122000 -0300" stop="20190903140000 -0300" channel="Max Up HD">
     <title lang="pt">Eu e as Mulheres</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903140000 -0300" stop="20190903153500 -0300" channel="MAX UP HD">
+  <programme start="20190903140000 -0300" stop="20190903153500 -0300" channel="Max Up HD">
     <title lang="pt">Os Piores Anos da Minha Vida</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903153500 -0300" stop="20190903172000 -0300" channel="MAX UP HD">
+  <programme start="20190903153500 -0300" stop="20190903172000 -0300" channel="Max Up HD">
     <title lang="pt">Perfeita é a Mãe!</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903172000 -0300" stop="20190903192200 -0300" channel="MAX UP HD">
+  <programme start="20190903172000 -0300" stop="20190903192200 -0300" channel="Max Up HD">
     <title lang="pt">Jumanji: Bem-Vindo à Selva</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903192200 -0300" stop="20190903210000 -0300" channel="MAX UP HD">
+  <programme start="20190903192200 -0300" stop="20190903210000 -0300" channel="Max Up HD">
     <title lang="pt">Caindo no Mundo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903210000 -0300" stop="20190903230300 -0300" channel="MAX UP HD">
+  <programme start="20190903210000 -0300" stop="20190903230300 -0300" channel="Max Up HD">
     <title lang="pt">A Sua Parte Frágil</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903230300 -0300" stop="20190904004700 -0300" channel="MAX UP HD">
+  <programme start="20190903230300 -0300" stop="20190904004700 -0300" channel="Max Up HD">
     <title lang="pt">Perfeita é a Mãe!</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904004700 -0300" stop="20190904025600 -0300" channel="MAX UP HD">
+  <programme start="20190904004700 -0300" stop="20190904025600 -0300" channel="Max Up HD">
     <title lang="pt">As Confissões de Schmidt</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904025600 -0300" stop="20190904050000 -0300" channel="MAX UP HD">
+  <programme start="20190904025600 -0300" stop="20190904050000 -0300" channel="Max Up HD">
     <title lang="pt">A Sua Parte Frágil</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904050000 -0300" stop="20190904064000 -0300" channel="MAX UP HD">
+  <programme start="20190904050000 -0300" stop="20190904064000 -0300" channel="Max Up HD">
     <title lang="pt">Pedro Coelho</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904064000 -0300" stop="20190904083000 -0300" channel="MAX UP HD">
+  <programme start="20190904064000 -0300" stop="20190904083000 -0300" channel="Max Up HD">
     <title lang="pt">Gremlins 2</title>
     <sub-title lang="pt">A Nova Turma</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904083000 -0300" stop="20190904102300 -0300" channel="MAX UP HD">
+  <programme start="20190904083000 -0300" stop="20190904102300 -0300" channel="Max Up HD">
     <title lang="pt">Morra Smoochy, Morra</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904102300 -0300" stop="20190904120800 -0300" channel="MAX UP HD">
+  <programme start="20190904102300 -0300" stop="20190904120800 -0300" channel="Max Up HD">
     <title lang="pt">A Feiticeira</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904120800 -0300" stop="20190904133800 -0300" channel="MAX UP HD">
+  <programme start="20190904120800 -0300" stop="20190904133800 -0300" channel="Max Up HD">
     <title lang="pt">Virei um Gato</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904133800 -0300" stop="20190904153000 -0300" channel="MAX UP HD">
+  <programme start="20190904133800 -0300" stop="20190904153000 -0300" channel="Max Up HD">
     <title lang="pt">A Colheita da Fé</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904153000 -0300" stop="20190904171800 -0300" channel="MAX UP HD">
+  <programme start="20190904153000 -0300" stop="20190904171800 -0300" channel="Max Up HD">
     <title lang="pt">Destino Incerto</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904171800 -0300" stop="20190904190600 -0300" channel="MAX UP HD">
+  <programme start="20190904171800 -0300" stop="20190904190600 -0300" channel="Max Up HD">
     <title lang="pt">Divórcio</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904190600 -0300" stop="20190904210000 -0300" channel="MAX UP HD">
+  <programme start="20190904190600 -0300" stop="20190904210000 -0300" channel="Max Up HD">
     <title lang="pt">Miss Simpatia</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904210000 -0300" stop="20190904223000 -0300" channel="MAX UP HD">
+  <programme start="20190904210000 -0300" stop="20190904223000 -0300" channel="Max Up HD">
     <title lang="pt">Virei um Gato</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904223000 -0300" stop="20190905003200 -0300" channel="MAX UP HD">
+  <programme start="20190904223000 -0300" stop="20190905003200 -0300" channel="Max Up HD">
     <title lang="pt">Hitch</title>
     <sub-title lang="pt">Conselheiro Amoroso</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905003200 -0300" stop="20190905022500 -0300" channel="MAX UP HD">
+  <programme start="20190905003200 -0300" stop="20190905022500 -0300" channel="Max Up HD">
     <title lang="pt">Miss Simpatia</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905022500 -0300" stop="20190905040500 -0300" channel="MAX UP HD">
+  <programme start="20190905022500 -0300" stop="20190905040500 -0300" channel="Max Up HD">
     <title lang="pt">Depois de Horas</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905040500 -0300" stop="20190905055500 -0300" channel="MAX UP HD">
+  <programme start="20190905040500 -0300" stop="20190905055500 -0300" channel="Max Up HD">
     <title lang="pt">A Colheita da Fé</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905055500 -0300" stop="20190905071600 -0300" channel="MAX UP HD">
+  <programme start="20190905055500 -0300" stop="20190905071600 -0300" channel="Max Up HD">
     <title lang="pt">Lego DC Comics Super Herois: O Flash</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905071600 -0300" stop="20190905091500 -0300" channel="MAX UP HD">
+  <programme start="20190905071600 -0300" stop="20190905091500 -0300" channel="Max Up HD">
     <title lang="pt">Divinos Segredos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905091500 -0300" stop="20190905105700 -0300" channel="MAX UP HD">
+  <programme start="20190905091500 -0300" stop="20190905105700 -0300" channel="Max Up HD">
     <title lang="pt">Vice Versa</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905105700 -0300" stop="20190905124500 -0300" channel="MAX UP HD">
+  <programme start="20190905105700 -0300" stop="20190905124500 -0300" channel="Max Up HD">
     <title lang="pt">Academia de Vampiros</title>
     <sub-title lang="pt">O Beijo das Sombras</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905124500 -0300" stop="20190905141500 -0300" channel="MAX UP HD">
+  <programme start="20190905124500 -0300" stop="20190905141500 -0300" channel="Max Up HD">
     <title lang="pt">Casamento Real</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905141500 -0300" stop="20190905153700 -0300" channel="MAX UP HD">
+  <programme start="20190905141500 -0300" stop="20190905153700 -0300" channel="Max Up HD">
     <title lang="pt">Deus da Carnificina</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905153700 -0300" stop="20190905173700 -0300" channel="MAX UP HD">
+  <programme start="20190905153700 -0300" stop="20190905173700 -0300" channel="Max Up HD">
     <title lang="pt">Divinos Segredos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905173700 -0300" stop="20190905192500 -0300" channel="MAX UP HD">
+  <programme start="20190905173700 -0300" stop="20190905192500 -0300" channel="Max Up HD">
     <title lang="pt">Academia de Vampiros</title>
     <sub-title lang="pt">O Beijo das Sombras</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905192500 -0300" stop="20190905210000 -0300" channel="MAX UP HD">
+  <programme start="20190905192500 -0300" stop="20190905210000 -0300" channel="Max Up HD">
     <title lang="pt">Para Maiores</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905210000 -0300" stop="20190905223500 -0300" channel="MAX UP HD">
+  <programme start="20190905210000 -0300" stop="20190905223500 -0300" channel="Max Up HD">
     <title lang="pt">Crash Pad: Dando o Troco</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190905223500 -0300" stop="20190906002000 -0300" channel="MAX UP HD">
+  <programme start="20190905223500 -0300" stop="20190906002000 -0300" channel="Max Up HD">
     <title lang="pt">Amor Fora de Foco</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906002000 -0300" stop="20190906021800 -0300" channel="MAX UP HD">
+  <programme start="20190906002000 -0300" stop="20190906021800 -0300" channel="Max Up HD">
     <title lang="pt">Cidade dos Anjos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906021800 -0300" stop="20190906031000 -0300" channel="MAX UP HD">
+  <programme start="20190906021800 -0300" stop="20190906031000 -0300" channel="Max Up HD">
     <title lang="pt">Roommates</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906031000 -0300" stop="20190906045000 -0300" channel="MAX UP HD">
+  <programme start="20190906031000 -0300" stop="20190906045000 -0300" channel="Max Up HD">
     <title lang="pt">Noites de Tormenta</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906045000 -0300" stop="20190906062000 -0300" channel="MAX UP HD">
+  <programme start="20190906045000 -0300" stop="20190906062000 -0300" channel="Max Up HD">
     <title lang="pt">A Estrela de Belém</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906062000 -0300" stop="20190906080000 -0300" channel="MAX UP HD">
+  <programme start="20190906062000 -0300" stop="20190906080000 -0300" channel="Max Up HD">
     <title lang="pt">Spot: Um Cão da Pesada</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906080000 -0300" stop="20190906095000 -0300" channel="MAX UP HD">
+  <programme start="20190906080000 -0300" stop="20190906095000 -0300" channel="Max Up HD">
     <title lang="pt">Caçadora de Gigantes</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906095000 -0300" stop="20190906115100 -0300" channel="MAX UP HD">
+  <programme start="20190906095000 -0300" stop="20190906115100 -0300" channel="Max Up HD">
     <title lang="pt">Quatro Amigas e um Jeans Viajante</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906115100 -0300" stop="20190906133300 -0300" channel="MAX UP HD">
+  <programme start="20190906115100 -0300" stop="20190906133300 -0300" channel="Max Up HD">
     <title lang="pt">A Noite do Jogo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906133300 -0300" stop="20190906152300 -0300" channel="MAX UP HD">
+  <programme start="20190906133300 -0300" stop="20190906152300 -0300" channel="Max Up HD">
     <title lang="pt">Your Name</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906152300 -0300" stop="20190906172500 -0300" channel="MAX UP HD">
+  <programme start="20190906152300 -0300" stop="20190906172500 -0300" channel="Max Up HD">
     <title lang="pt">Jumanji: Bem-Vindo à Selva</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906172500 -0300" stop="20190906190000 -0300" channel="MAX UP HD">
+  <programme start="20190906172500 -0300" stop="20190906190000 -0300" channel="Max Up HD">
     <title lang="pt">Viagem ao Centro da Terra</title>
     <sub-title lang="pt">O Filme</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906190000 -0300" stop="20190906210000 -0300" channel="MAX UP HD">
+  <programme start="20190906190000 -0300" stop="20190906210000 -0300" channel="Max Up HD">
     <title lang="pt">Logan Lucky: Roubo em Família</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906210000 -0300" stop="20190906224400 -0300" channel="MAX UP HD">
+  <programme start="20190906210000 -0300" stop="20190906224400 -0300" channel="Max Up HD">
     <title lang="pt">A Noite do Jogo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190906224400 -0300" stop="20190907004500 -0300" channel="MAX UP HD">
+  <programme start="20190906224400 -0300" stop="20190907004500 -0300" channel="Max Up HD">
     <title lang="pt">Jumanji: Bem-Vindo à Selva</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907004500 -0300" stop="20190907022000 -0300" channel="MAX UP HD">
+  <programme start="20190907004500 -0300" stop="20190907022000 -0300" channel="Max Up HD">
     <title lang="pt">Quando Você Viu Seu Pai pela Última Vez?</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907022000 -0300" stop="20190907035500 -0300" channel="MAX UP HD">
+  <programme start="20190907022000 -0300" stop="20190907035500 -0300" channel="Max Up HD">
     <title lang="pt">Do Que é Feita Uma Família</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907035500 -0300" stop="20190907052400 -0300" channel="MAX UP HD">
+  <programme start="20190907035500 -0300" stop="20190907052400 -0300" channel="Max Up HD">
     <title lang="pt">O Peste</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907052400 -0300" stop="20190907071000 -0300" channel="MAX UP HD">
+  <programme start="20190907052400 -0300" stop="20190907071000 -0300" channel="Max Up HD">
     <title lang="pt">Dois Velhos Rabugentos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907071000 -0300" stop="20190907085000 -0300" channel="MAX UP HD">
+  <programme start="20190907071000 -0300" stop="20190907085000 -0300" channel="Max Up HD">
     <title lang="pt">Hotel Transilvânia 3: Férias Monstruosas</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907085000 -0300" stop="20190907104100 -0300" channel="MAX UP HD">
+  <programme start="20190907085000 -0300" stop="20190907104100 -0300" channel="Max Up HD">
     <title lang="pt">A Colheita da Fé</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907104100 -0300" stop="20190907121300 -0300" channel="MAX UP HD">
+  <programme start="20190907104100 -0300" stop="20190907121300 -0300" channel="Max Up HD">
     <title lang="pt">Mistério Na TV: Vingança Mortal</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907121300 -0300" stop="20190907142200 -0300" channel="MAX UP HD">
+  <programme start="20190907121300 -0300" stop="20190907142200 -0300" channel="Max Up HD">
     <title lang="pt">As Confissões de Schmidt</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907142200 -0300" stop="20190907165000 -0300" channel="MAX UP HD">
+  <programme start="20190907142200 -0300" stop="20190907165000 -0300" channel="Max Up HD">
     <title lang="pt">Sex And The City</title>
     <sub-title lang="pt">O Filme</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907165000 -0300" stop="20190907192000 -0300" channel="MAX UP HD">
+  <programme start="20190907165000 -0300" stop="20190907192000 -0300" channel="Max Up HD">
     <title lang="pt">Sex And The City 2</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907192000 -0300" stop="20190907210000 -0300" channel="MAX UP HD">
+  <programme start="20190907192000 -0300" stop="20190907210000 -0300" channel="Max Up HD">
     <title lang="pt">A Verdade Nua e Crua</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907210000 -0300" stop="20190907224200 -0300" channel="MAX UP HD">
+  <programme start="20190907210000 -0300" stop="20190907224200 -0300" channel="Max Up HD">
     <title lang="pt">Coisa de Mulher</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190907224200 -0300" stop="20190908003000 -0300" channel="MAX UP HD">
+  <programme start="20190907224200 -0300" stop="20190908003000 -0300" channel="Max Up HD">
     <title lang="pt">Divórcio</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908003000 -0300" stop="20190908012200 -0300" channel="MAX UP HD">
+  <programme start="20190908003000 -0300" stop="20190908012200 -0300" channel="Max Up HD">
     <title lang="pt">Roommates</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908012200 -0300" stop="20190908021100 -0300" channel="MAX UP HD">
+  <programme start="20190908012200 -0300" stop="20190908021100 -0300" channel="Max Up HD">
     <title lang="pt">Roommates</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908021100 -0300" stop="20190908035400 -0300" channel="MAX UP HD">
+  <programme start="20190908021100 -0300" stop="20190908035400 -0300" channel="Max Up HD">
     <title lang="pt">Um Dia, Dois Pais</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908035400 -0300" stop="20190908051500 -0300" channel="MAX UP HD">
+  <programme start="20190908035400 -0300" stop="20190908051500 -0300" channel="Max Up HD">
     <title lang="pt">Lego DC Comics Super Herois: O Flash</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908051500 -0300" stop="20190908070500 -0300" channel="MAX UP HD">
+  <programme start="20190908051500 -0300" stop="20190908070500 -0300" channel="Max Up HD">
     <title lang="pt">Gremlins 2</title>
     <sub-title lang="pt">A Nova Turma</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908070500 -0300" stop="20190908083200 -0300" channel="MAX UP HD">
+  <programme start="20190908070500 -0300" stop="20190908083200 -0300" channel="Max Up HD">
     <title lang="pt">Vida Nova em Mitford</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908083200 -0300" stop="20190908102900 -0300" channel="MAX UP HD">
+  <programme start="20190908083200 -0300" stop="20190908102900 -0300" channel="Max Up HD">
     <title lang="pt">Os Goonies</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908102900 -0300" stop="20190908120700 -0300" channel="MAX UP HD">
+  <programme start="20190908102900 -0300" stop="20190908120700 -0300" channel="Max Up HD">
     <title lang="pt">Pedro Coelho</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908120700 -0300" stop="20190908135300 -0300" channel="MAX UP HD">
+  <programme start="20190908120700 -0300" stop="20190908135300 -0300" channel="Max Up HD">
     <title lang="pt">A Feiticeira</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908135300 -0300" stop="20190908153800 -0300" channel="MAX UP HD">
+  <programme start="20190908135300 -0300" stop="20190908153800 -0300" channel="Max Up HD">
     <title lang="pt">Perfeita é a Mãe!</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908153800 -0300" stop="20190908174000 -0300" channel="MAX UP HD">
+  <programme start="20190908153800 -0300" stop="20190908174000 -0300" channel="Max Up HD">
     <title lang="pt">Hitch</title>
     <sub-title lang="pt">Conselheiro Amoroso</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908174000 -0300" stop="20190908192500 -0300" channel="MAX UP HD">
+  <programme start="20190908174000 -0300" stop="20190908192500 -0300" channel="Max Up HD">
     <title lang="pt">A Garota da Capa Vermelha</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908192500 -0300" stop="20190908210000 -0300" channel="MAX UP HD">
+  <programme start="20190908192500 -0300" stop="20190908210000 -0300" channel="Max Up HD">
     <title lang="pt">Os Piores Anos da Minha Vida</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908210000 -0300" stop="20190908224500 -0300" channel="MAX UP HD">
+  <programme start="20190908210000 -0300" stop="20190908224500 -0300" channel="Max Up HD">
     <title lang="pt">Perfeita é a Mãe!</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908224500 -0300" stop="20190909002300 -0300" channel="MAX UP HD">
+  <programme start="20190908224500 -0300" stop="20190909002300 -0300" channel="Max Up HD">
     <title lang="pt">Caindo no Mundo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909002300 -0300" stop="20190909022500 -0300" channel="MAX UP HD">
+  <programme start="20190909002300 -0300" stop="20190909022500 -0300" channel="Max Up HD">
     <title lang="pt">Hitch</title>
     <sub-title lang="pt">Conselheiro Amoroso</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909022500 -0300" stop="20190909042100 -0300" channel="MAX UP HD">
+  <programme start="20190909022500 -0300" stop="20190909042100 -0300" channel="Max Up HD">
     <title lang="pt">Loucos do Alabama</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909042100 -0300" stop="20190909054000 -0300" channel="MAX UP HD">
+  <programme start="20190909042100 -0300" stop="20190909054000 -0300" channel="Max Up HD">
     <title lang="pt">Scooby-doo e Batman: Os Bravos e Destemidos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909054000 -0300" stop="20190909072000 -0300" channel="MAX UP HD">
+  <programme start="20190909054000 -0300" stop="20190909072000 -0300" channel="Max Up HD">
     <title lang="pt">Mera Coincidência</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909072000 -0300" stop="20190909084000 -0300" channel="MAX UP HD">
+  <programme start="20190909072000 -0300" stop="20190909084000 -0300" channel="Max Up HD">
     <title lang="pt">Lego DC Comics Super Herois: Aquaman</title>
     <sub-title lang="pt">A Fúria de Atlântida</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909084000 -0300" stop="20190909103200 -0300" channel="MAX UP HD">
+  <programme start="20190909084000 -0300" stop="20190909103200 -0300" channel="Max Up HD">
     <title lang="pt">Morra Smoochy, Morra</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909103200 -0300" stop="20190909120000 -0300" channel="MAX UP HD">
+  <programme start="20190909103200 -0300" stop="20190909120000 -0300" channel="Max Up HD">
     <title lang="pt">Um Crime no Concurso de Sobremesas</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909120000 -0300" stop="20190909134000 -0300" channel="MAX UP HD">
+  <programme start="20190909120000 -0300" stop="20190909134000 -0300" channel="Max Up HD">
     <title lang="pt">Noites de Tormenta</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909134000 -0300" stop="20190909153300 -0300" channel="MAX UP HD">
+  <programme start="20190909134000 -0300" stop="20190909153300 -0300" channel="Max Up HD">
     <title lang="pt">Miss Simpatia</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909153300 -0300" stop="20190909170200 -0300" channel="MAX UP HD">
+  <programme start="20190909153300 -0300" stop="20190909170200 -0300" channel="Max Up HD">
     <title lang="pt">Virei um Gato</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909170200 -0300" stop="20190909184200 -0300" channel="MAX UP HD">
+  <programme start="20190909170200 -0300" stop="20190909184200 -0300" channel="Max Up HD">
     <title lang="pt">Eu e as Mulheres</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909184200 -0300" stop="20190909191300 -0300" channel="MAX UP HD">
+  <programme start="20190909184200 -0300" stop="20190909191300 -0300" channel="Max Up HD">
     <title lang="pt">Encuentros en Brasil</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909191300 -0300" stop="20190909210000 -0300" channel="MAX UP HD">
+  <programme start="20190909191300 -0300" stop="20190909210000 -0300" channel="Max Up HD">
     <title lang="pt">Divórcio</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909210000 -0300" stop="20190909225400 -0300" channel="MAX UP HD">
+  <programme start="20190909210000 -0300" stop="20190909225400 -0300" channel="Max Up HD">
     <title lang="pt">Miss Simpatia</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190909225400 -0300" stop="20190910005400 -0300" channel="MAX UP HD">
+  <programme start="20190909225400 -0300" stop="20190910005400 -0300" channel="Max Up HD">
     <title lang="pt">Divinos Segredos</title>
     <star-rating>
       <value>1.0</value>
@@ -45757,20 +45170,20 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908081000 -0300" stop="20190908095000 -0300" channel="Megapix HD">
-    <title lang="pt">Ameaça Explosiva</title>
+  <programme start="20190908081000 -0300" stop="20190908101000 -0300" channel="Megapix HD">
+    <title lang="pt">Os Agentes Do Destino</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908095000 -0300" stop="20190908115500 -0300" channel="Megapix HD">
+  <programme start="20190908101000 -0300" stop="20190908121500 -0300" channel="Megapix HD">
     <title lang="pt">Sem Prada Nem Nada</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190908115500 -0300" stop="20190908141500 -0300" channel="Megapix HD">
-    <title lang="pt">Sessão Retrô.: Uma Linda Mulher</title>
+  <programme start="20190908121500 -0300" stop="20190908141500 -0300" channel="Megapix HD">
+    <title lang="pt">Sessão Retrô.: Jumanji</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
@@ -49908,67 +49321,67 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903223000 -0300" stop="20190904001000 -0300" channel="National Geographic HD">
+  <programme start="20190903223000 -0300" stop="20190904000000 -0300" channel="National Geographic HD">
     <title lang="pt">Por Dentro da Segunda Guerra Mundial</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904001000 -0300" stop="20190904010000 -0300" channel="National Geographic HD">
+  <programme start="20190904000000 -0300" stop="20190904004600 -0300" channel="National Geographic HD">
     <title lang="pt">Hitler: O Confronto Final</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904010000 -0300" stop="20190904015000 -0300" channel="National Geographic HD">
+  <programme start="20190904004600 -0300" stop="20190904013300 -0300" channel="National Geographic HD">
     <title lang="pt">Desafios da Estrada</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904015000 -0300" stop="20190904024000 -0300" channel="National Geographic HD">
+  <programme start="20190904013300 -0300" stop="20190904021900 -0300" channel="National Geographic HD">
     <title lang="pt">Paraíso Letal</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904024000 -0300" stop="20190904033000 -0300" channel="National Geographic HD">
+  <programme start="20190904021900 -0300" stop="20190904030500 -0300" channel="National Geographic HD">
     <title lang="pt">Aeroporto: Madri</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904033000 -0300" stop="20190904050000 -0300" channel="National Geographic HD">
+  <programme start="20190904030500 -0300" stop="20190904043900 -0300" channel="National Geographic HD">
     <title lang="pt">Por Dentro da Segunda Guerra Mundial</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904050000 -0300" stop="20190904054500 -0300" channel="National Geographic HD">
+  <programme start="20190904043900 -0300" stop="20190904052600 -0300" channel="National Geographic HD">
     <title lang="pt">Hitler: O Confronto Final</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904054500 -0300" stop="20190904063000 -0300" channel="National Geographic HD">
+  <programme start="20190904052600 -0300" stop="20190904061300 -0300" channel="National Geographic HD">
     <title lang="pt">Desafios da Estrada</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904063000 -0300" stop="20190904070000 -0300" channel="National Geographic HD">
+  <programme start="20190904061300 -0300" stop="20190904063800 -0300" channel="National Geographic HD">
     <title lang="pt">Desafios Mentais</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904070000 -0300" stop="20190904073000 -0300" channel="National Geographic HD">
-    <title lang="pt">Infomercial</title>
+  <programme start="20190904063800 -0300" stop="20190904070000 -0300" channel="National Geographic HD">
+    <title lang="pt">Ciência do Absurdo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190904073000 -0300" stop="20190904080000 -0300" channel="National Geographic HD">
+  <programme start="20190904070000 -0300" stop="20190904080000 -0300" channel="National Geographic HD">
     <title lang="pt">Infomercial</title>
     <star-rating>
       <value>1.0</value>
@@ -58711,27 +58124,27 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903003700 -0300" stop="20190903011200 -0300" channel="Space HD">
+  <programme start="20190903002900 -0300" stop="20190903010500 -0300" channel="Space HD">
     <title lang="pt">Brasileirão 2019</title>
     <sub-title lang="pt">Melhores Momentos</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903011200 -0300" stop="20190903024300 -0300" channel="Space HD">
+  <programme start="20190903010500 -0300" stop="20190903024000 -0300" channel="Space HD">
     <title lang="pt">O Massacre da Serra Elétrica</title>
     <sub-title lang="pt">A Lenda Continua</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903024300 -0300" stop="20190903043400 -0300" channel="Space HD">
+  <programme start="20190903024000 -0300" stop="20190903042700 -0300" channel="Space HD">
     <title lang="pt">Caçada Perversa</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190903043400 -0300" stop="20190903060000 -0300" channel="Space HD">
+  <programme start="20190903042700 -0300" stop="20190903060000 -0300" channel="Space HD">
     <title lang="pt">A Espada da Vingança</title>
     <star-rating>
       <value>1.0</value>
