@@ -1,0 +1,2539 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="A&amp;E HD">
+    <display-name lang="pt">A&amp;E HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="AMC HD">
+    <display-name lang="pt">AMC HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Animal Planet HD">
+    <display-name lang="pt">Animal Planet HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20190903000000 -0300" stop="20190903005000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903005000 -0300" stop="20190903014000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903014000 -0300" stop="20190903023000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Vidas Interrompidas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903023000 -0300" stop="20190903032000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Emergências Médicas Noturnas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903032000 -0300" stop="20190903041000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Esposas Assassinas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903041000 -0300" stop="20190903043500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira: EUA</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903043500 -0300" stop="20190903050000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira: EUA</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903050000 -0300" stop="20190903053000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903053000 -0300" stop="20190903060000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903060000 -0300" stop="20190903065000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903065000 -0300" stop="20190903074000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903074000 -0300" stop="20190903083000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903083000 -0300" stop="20190903090000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903090000 -0300" stop="20190903093000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903093000 -0300" stop="20190903102500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Tratamento de Choque</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903102500 -0300" stop="20190903105500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903105500 -0300" stop="20190903115000 -0300" channel="A&amp;E HD">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903115000 -0300" stop="20190903124000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903124000 -0300" stop="20190903133000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903133000 -0300" stop="20190903135500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903135500 -0300" stop="20190903142000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903142000 -0300" stop="20190903151000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Vidas Interrompidas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903151000 -0300" stop="20190903160000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Emergências Médicas Noturnas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903160000 -0300" stop="20190903165500 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903165500 -0300" stop="20190903175000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Tratamento de Choque</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903175000 -0300" stop="20190903184000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903184000 -0300" stop="20190903202500 -0300" channel="A&amp;E HD">
+    <title lang="pt">O Dragão Chinês</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903202500 -0300" stop="20190903222000 -0300" channel="A&amp;E HD">
+    <title lang="pt">22 Balas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903222000 -0300" stop="20190903231000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Six: Esquadrão Antiterrorista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903231000 -0300" stop="20190904000000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904000000 -0300" stop="20190904005000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904005000 -0300" stop="20190904014000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904014000 -0300" stop="20190904020500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904020500 -0300" stop="20190904023000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904023000 -0300" stop="20190904030000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Desaparecidos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904030000 -0300" stop="20190904033000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Desaparecidos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904033000 -0300" stop="20190904043000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Tratamento de Choque</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904043000 -0300" stop="20190904050000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Desaparecidos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904050000 -0300" stop="20190904053000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904053000 -0300" stop="20190904060000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904060000 -0300" stop="20190904065000 -0300" channel="A&amp;E HD">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904065000 -0300" stop="20190904074000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904074000 -0300" stop="20190904083000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904083000 -0300" stop="20190904085500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904085500 -0300" stop="20190904092000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904092000 -0300" stop="20190904101000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Six: Esquadrão Antiterrorista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904101000 -0300" stop="20190904110000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Six: Esquadrão Antiterrorista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904110000 -0300" stop="20190904115000 -0300" channel="A&amp;E HD">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904115000 -0300" stop="20190904124000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904124000 -0300" stop="20190904133000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904133000 -0300" stop="20190904135500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904135500 -0300" stop="20190904142000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904142000 -0300" stop="20190904151000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Six: Esquadrão Antiterrorista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904151000 -0300" stop="20190904160000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Six: Esquadrão Antiterrorista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904160000 -0300" stop="20190904165000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904165000 -0300" stop="20190904172000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904172000 -0300" stop="20190904181000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Tratamento de Choque</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904181000 -0300" stop="20190904190000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904190000 -0300" stop="20190904203500 -0300" channel="A&amp;E HD">
+    <title lang="pt">127 Horas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904203500 -0300" stop="20190904222000 -0300" channel="A&amp;E HD">
+    <title lang="pt">O Predador</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904222000 -0300" stop="20190904231000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904231000 -0300" stop="20190905000000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905000000 -0300" stop="20190905005000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905005000 -0300" stop="20190905014000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905014000 -0300" stop="20190905023000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905023000 -0300" stop="20190905030000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Desaparecidos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905030000 -0300" stop="20190905033000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Desaparecidos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905033000 -0300" stop="20190905043000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Tratamento de Choque</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905043000 -0300" stop="20190905050000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Desaparecidos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905050000 -0300" stop="20190905053000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905053000 -0300" stop="20190905060000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905060000 -0300" stop="20190905065000 -0300" channel="A&amp;E HD">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905065000 -0300" stop="20190905074000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905074000 -0300" stop="20190905083000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905083000 -0300" stop="20190905085500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905085500 -0300" stop="20190905092000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905092000 -0300" stop="20190905101000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905101000 -0300" stop="20190905110000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905110000 -0300" stop="20190905115000 -0300" channel="A&amp;E HD">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905115000 -0300" stop="20190905124000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905124000 -0300" stop="20190905133000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905133000 -0300" stop="20190905135500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905135500 -0300" stop="20190905142000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905142000 -0300" stop="20190905151000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905151000 -0300" stop="20190905160000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905160000 -0300" stop="20190905165500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905165500 -0300" stop="20190905175000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Tratamento de Choque</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905175000 -0300" stop="20190905184000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905184000 -0300" stop="20190905210500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Godzilla (1998)</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905210500 -0300" stop="20190905222000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Entre Vales</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905222000 -0300" stop="20190905231000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Bull</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905231000 -0300" stop="20190906000000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906000000 -0300" stop="20190906005000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906005000 -0300" stop="20190906014000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906014000 -0300" stop="20190906023000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Bull</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906023000 -0300" stop="20190906030000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Desaparecidos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906030000 -0300" stop="20190906033000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Desaparecidos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906033000 -0300" stop="20190906043000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Tratamento de Choque</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906043000 -0300" stop="20190906050000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Desaparecidos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906050000 -0300" stop="20190906053000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906053000 -0300" stop="20190906060000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906060000 -0300" stop="20190906065000 -0300" channel="A&amp;E HD">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906065000 -0300" stop="20190906074000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906074000 -0300" stop="20190906083000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906083000 -0300" stop="20190906085500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906085500 -0300" stop="20190906092000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906092000 -0300" stop="20190906101000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Bull</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906101000 -0300" stop="20190906110000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Bull</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906110000 -0300" stop="20190906115000 -0300" channel="A&amp;E HD">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906115000 -0300" stop="20190906124000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906124000 -0300" stop="20190906133000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906133000 -0300" stop="20190906135500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906135500 -0300" stop="20190906142000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906142000 -0300" stop="20190906151000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Bull</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906151000 -0300" stop="20190906160000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Bull</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906160000 -0300" stop="20190906165500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906165500 -0300" stop="20190906175000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Tratamento de Choque</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906175000 -0300" stop="20190906184000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906184000 -0300" stop="20190906201000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Entre Vales</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906201000 -0300" stop="20190906222000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Anjos da Noite</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906222000 -0300" stop="20190906231000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906231000 -0300" stop="20190907000000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907000000 -0300" stop="20190907005000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907005000 -0300" stop="20190907014000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907014000 -0300" stop="20190907023000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907023000 -0300" stop="20190907030000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Desaparecidos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907030000 -0300" stop="20190907033000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Desaparecidos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907033000 -0300" stop="20190907043000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Tratamento de Choque</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907043000 -0300" stop="20190907050000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Desaparecidos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907050000 -0300" stop="20190907053000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907053000 -0300" stop="20190907060000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907060000 -0300" stop="20190907065000 -0300" channel="A&amp;E HD">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907065000 -0300" stop="20190907074000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Emergências Noturnas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907074000 -0300" stop="20190907083000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Emergências Noturnas</title>
+    <sub-title lang="pt">Tampa</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907083000 -0300" stop="20190907092000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Segurança Máxima</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907092000 -0300" stop="20190907101000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907101000 -0300" stop="20190907110000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907110000 -0300" stop="20190907115000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907115000 -0300" stop="20190907124000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907124000 -0300" stop="20190907133000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907133000 -0300" stop="20190907142000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907142000 -0300" stop="20190907150500 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907150500 -0300" stop="20190907155000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907155000 -0300" stop="20190907164000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Segurança Máxima</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907164000 -0300" stop="20190907173000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907173000 -0300" stop="20190907194500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Anjos da Noite</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907194500 -0300" stop="20190907212000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Roubar é uma Arte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907212000 -0300" stop="20190907231000 -0300" channel="A&amp;E HD">
+    <title lang="pt">As Panteras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907231000 -0300" stop="20190908011500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Alien</title>
+    <sub-title lang="pt">O Oitavo Passageiro</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908011500 -0300" stop="20190908021500 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908021500 -0300" stop="20190908031500 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908031500 -0300" stop="20190908041000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908041000 -0300" stop="20190908050500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908050500 -0300" stop="20190908060000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908060000 -0300" stop="20190908065000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Emergências Noturnas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908065000 -0300" stop="20190908074000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Casos Arquivados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908074000 -0300" stop="20190908083000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Vidas Interrompidas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908083000 -0300" stop="20190908092000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Esposas Assassinas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908092000 -0300" stop="20190908101000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Jovens Assassinos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908101000 -0300" stop="20190908110000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908110000 -0300" stop="20190908115000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908115000 -0300" stop="20190908124000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Casos Arquivados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908124000 -0300" stop="20190908133000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Vidas Interrompidas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908133000 -0300" stop="20190908142000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Esposas Assassinas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908142000 -0300" stop="20190908151000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Jovens Assassinos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908151000 -0300" stop="20190908160000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Six: Esquadrão Antiterrorista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908160000 -0300" stop="20190908165000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Six: Esquadrão Antiterrorista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908165000 -0300" stop="20190908174000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Emergências Noturnas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908174000 -0300" stop="20190908191500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Roubar é uma Arte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908191500 -0300" stop="20190908212000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Alien</title>
+    <sub-title lang="pt">O Oitavo Passageiro</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908212000 -0300" stop="20190908225000 -0300" channel="A&amp;E HD">
+    <title lang="pt">O Mariachi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908225000 -0300" stop="20190909002000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Sexo À Venda: História Não Contada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909002000 -0300" stop="20190909012000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Emergências Noturnas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909012000 -0300" stop="20190909022000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Jovens Assassinos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909022000 -0300" stop="20190909032000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Vidas Interrompidas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909032000 -0300" stop="20190909041500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Esposas Assassinas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909041500 -0300" stop="20190909051000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Casos Arquivados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909051000 -0300" stop="20190909060000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Emergências Noturnas</title>
+    <sub-title lang="pt">Tampa</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909060000 -0300" stop="20190909065000 -0300" channel="A&amp;E HD">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909065000 -0300" stop="20190909074000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909074000 -0300" stop="20190909083000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909083000 -0300" stop="20190909090000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909090000 -0300" stop="20190909093000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909093000 -0300" stop="20190909102500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Tratamento de Choque</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909102500 -0300" stop="20190909105500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909105500 -0300" stop="20190909115000 -0300" channel="A&amp;E HD">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909115000 -0300" stop="20190909124000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909124000 -0300" stop="20190909133000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909133000 -0300" stop="20190909140000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909140000 -0300" stop="20190909143000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909143000 -0300" stop="20190909152500 -0300" channel="A&amp;E HD">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909152500 -0300" stop="20190909162000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909162000 -0300" stop="20190909175000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Sexo À Venda: História Não Contada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909175000 -0300" stop="20190909185000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909185000 -0300" stop="20190909195000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Até Que a Morte Nos Separe</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909195000 -0300" stop="20190909204000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Vidas Interrompidas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909204000 -0300" stop="20190909213000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Emergências Médicas Noturnas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909213000 -0300" stop="20190909222000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Esposas Assassinas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909222000 -0300" stop="20190909224500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira: EUA</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909224500 -0300" stop="20190909231000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira: EUA</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909231000 -0300" stop="20190910000000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903005100 -0300" stop="20190903014100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Jeremy Wade: Águas Misteriosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903014100 -0300" stop="20190903023100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Jeremy Wade: Águas Misteriosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903023100 -0300" stop="20190903032100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Jeremy Wade: Rios Grandiosos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903032100 -0300" stop="20190903041100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903041100 -0300" stop="20190903050100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903050100 -0300" stop="20190903055100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Veterinário das Montanhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903055100 -0300" stop="20190903061600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Patrulha de Bornéu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903061600 -0300" stop="20190903064200 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903064200 -0300" stop="20190903070700 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903070700 -0300" stop="20190903075700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Justiça Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903075700 -0300" stop="20190903084700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Justiça Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903084700 -0300" stop="20190903093700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Justiça Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903093700 -0300" stop="20190903100200 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903100200 -0300" stop="20190903102700 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903102700 -0300" stop="20190903111700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pesca Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903111700 -0300" stop="20190903120700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Criaturas Estranhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903120700 -0300" stop="20190903130000 -0300" channel="Animal Planet HD">
+    <title lang="pt">A Família Irwin</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903130000 -0300" stop="20190903135000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Perdido na Austrália</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903135000 -0300" stop="20190903144000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Perdido na Amazônia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903144000 -0300" stop="20190903153000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Perdido na Amazônia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903153000 -0300" stop="20190903162000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Patagônia Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903162000 -0300" stop="20190903171000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Costa Rica Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903171000 -0300" stop="20190903180000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Apalaches Selvagens</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903180000 -0300" stop="20190903182600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Terra Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903182600 -0300" stop="20190903185100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Terra Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903185100 -0300" stop="20190903194300 -0300" channel="Animal Planet HD">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903194300 -0300" stop="20190903203400 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pequenos Milagres da Natureza</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903203400 -0300" stop="20190903212500 -0300" channel="Animal Planet HD">
+    <title lang="pt">Planeta Azul</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903212500 -0300" stop="20190903221600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Espiões da Natureza</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903221600 -0300" stop="20190903230700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Nova Zelândia Primitiva</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903230700 -0300" stop="20190903233300 -0300" channel="Animal Planet HD">
+    <title lang="pt">Terra Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903233300 -0300" stop="20190903235800 -0300" channel="Animal Planet HD">
+    <title lang="pt">Terra Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903235800 -0300" stop="20190904005100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pit bulls e Condenados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904005100 -0300" stop="20190904014100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pequenos Milagres da Natureza</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904014100 -0300" stop="20190904023100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Planeta Azul</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904023100 -0300" stop="20190904032100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Espiões da Natureza</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904032100 -0300" stop="20190904041100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Nova Zelândia Primitiva</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904041100 -0300" stop="20190904043600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Terra Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904043600 -0300" stop="20190904050100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Terra Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904050100 -0300" stop="20190904055100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Veterinário das Montanhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904055100 -0300" stop="20190904061600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Patrulha de Bornéu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904061600 -0300" stop="20190904064200 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904064200 -0300" stop="20190904070700 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904070700 -0300" stop="20190904075700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Veterinário das Montanhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904075700 -0300" stop="20190904084700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Veterinário das Montanhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904084700 -0300" stop="20190904093700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Veterinário das Montanhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904093700 -0300" stop="20190904100200 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904100200 -0300" stop="20190904102700 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904102700 -0300" stop="20190904111700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pesca Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904111700 -0300" stop="20190904120700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Criaturas Estranhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904120700 -0300" stop="20190904130000 -0300" channel="Animal Planet HD">
+    <title lang="pt">A Família Irwin</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904130000 -0300" stop="20190904135000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pesca Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904135000 -0300" stop="20190904144000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pesca Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904144000 -0300" stop="20190904153000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pesca Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904153000 -0300" stop="20190904162000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Planeta Mutante</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904162000 -0300" stop="20190904171000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Planeta Mutante</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904171000 -0300" stop="20190904180000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Planeta Mutante</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904180000 -0300" stop="20190904182600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Terra Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904182600 -0300" stop="20190904185100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Terra Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904185100 -0300" stop="20190904194300 -0300" channel="Animal Planet HD">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904194300 -0300" stop="20190904203400 -0300" channel="Animal Planet HD">
+    <title lang="pt">Filhotes: Desafiando Perigos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904203400 -0300" stop="20190904221600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Ilha Feroz</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904221600 -0300" stop="20190904235800 -0300" channel="Animal Planet HD">
+    <title lang="pt">Santuário dos Tigres</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904235800 -0300" stop="20190905002500 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905002500 -0300" stop="20190905005100 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905005100 -0300" stop="20190905014100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Filhotes: Desafiando Perigos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905014100 -0300" stop="20190905032100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Ilha Feroz</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905032100 -0300" stop="20190905050100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Santuário dos Tigres</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905050100 -0300" stop="20190905055100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Veterinário das Montanhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905055100 -0300" stop="20190905061600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Patrulha de Bornéu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905061600 -0300" stop="20190905064200 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905064200 -0300" stop="20190905070700 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905070700 -0300" stop="20190905075700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Patrulheiros da Natureza</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905075700 -0300" stop="20190905084700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Patrulheiros da Natureza</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905084700 -0300" stop="20190905093700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Patrulheiros da Natureza</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905093700 -0300" stop="20190905100200 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905100200 -0300" stop="20190905102700 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905102700 -0300" stop="20190905111700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pesca Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905111700 -0300" stop="20190905120700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Criaturas Estranhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905120700 -0300" stop="20190905130000 -0300" channel="Animal Planet HD">
+    <title lang="pt">A Família Irwin</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905130000 -0300" stop="20190905135000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Vida Selvagem com Evan</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905135000 -0300" stop="20190905144000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Vida Selvagem com Evan</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905144000 -0300" stop="20190905153000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Vida Selvagem com Evan</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905153000 -0300" stop="20190905162000 -0300" channel="Animal Planet HD">
+    <title lang="pt">África Selvagem: Rios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905162000 -0300" stop="20190905171000 -0300" channel="Animal Planet HD">
+    <title lang="pt">África Selvagem: Rios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905171000 -0300" stop="20190905180000 -0300" channel="Animal Planet HD">
+    <title lang="pt">África Selvagem: Rios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905180000 -0300" stop="20190905182600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Terra Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905182600 -0300" stop="20190905185100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Terra Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905185100 -0300" stop="20190905194300 -0300" channel="Animal Planet HD">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905194300 -0300" stop="20190905203400 -0300" channel="Animal Planet HD">
+    <title lang="pt">Isca Humana</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905203400 -0300" stop="20190905210000 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Diário do Caçador de Crocodilos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905210000 -0300" stop="20190905212500 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Diário do Caçador de Crocodilos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905212500 -0300" stop="20190905221600 -0300" channel="Animal Planet HD">
+    <title lang="pt">A Família Irwin</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905221600 -0300" stop="20190905230700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Coração de Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905230700 -0300" stop="20190905235800 -0300" channel="Animal Planet HD">
+    <title lang="pt">Santuário dos Lobos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190905235800 -0300" stop="20190906005100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Perdido no Sudeste Asiático: Tráfico de Animais</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906005100 -0300" stop="20190906014100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Isca Humana</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906014100 -0300" stop="20190906020600 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Diário do Caçador de Crocodilos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906020600 -0300" stop="20190906023100 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Diário do Caçador de Crocodilos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906023100 -0300" stop="20190906032100 -0300" channel="Animal Planet HD">
+    <title lang="pt">A Família Irwin</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906032100 -0300" stop="20190906041100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Coração de Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906041100 -0300" stop="20190906050100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Santuário dos Lobos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906050100 -0300" stop="20190906055100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Veterinário das Montanhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906055100 -0300" stop="20190906061600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Patrulha de Bornéu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906061600 -0300" stop="20190906064200 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906064200 -0300" stop="20190906070700 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906070700 -0300" stop="20190906075700 -0300" channel="Animal Planet HD">
+    <title lang="pt">SOS! Meu Pet Come Mal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906075700 -0300" stop="20190906084700 -0300" channel="Animal Planet HD">
+    <title lang="pt">SOS! Meu Pet Come Mal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906084700 -0300" stop="20190906093700 -0300" channel="Animal Planet HD">
+    <title lang="pt">SOS! Meu Pet Come Mal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906093700 -0300" stop="20190906100200 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906100200 -0300" stop="20190906102700 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906102700 -0300" stop="20190906111700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pesca Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906111700 -0300" stop="20190906120700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Criaturas Estranhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906120700 -0300" stop="20190906130000 -0300" channel="Animal Planet HD">
+    <title lang="pt">A Família Irwin</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906130000 -0300" stop="20190906135000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Veterinários do Texas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906135000 -0300" stop="20190906144000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Veterinários do Texas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906144000 -0300" stop="20190906153000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Veterinários do Texas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906153000 -0300" stop="20190906162000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Os Reis da Selva</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906162000 -0300" stop="20190906171000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Os Reis da Selva</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906171000 -0300" stop="20190906180000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Os Reis da Selva</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906180000 -0300" stop="20190906182600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pântano Perigoso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906182600 -0300" stop="20190906185100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pântano Perigoso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906185100 -0300" stop="20190906194300 -0300" channel="Animal Planet HD">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906194300 -0300" stop="20190906203400 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pesca Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906203400 -0300" stop="20190906212500 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pesca Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906212500 -0300" stop="20190906221600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Jeremy Wade: Águas Misteriosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906221600 -0300" stop="20190906230700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pesca ao Extremo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190906230700 -0300" stop="20190907005100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pesca Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907005100 -0300" stop="20190907014100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pesca Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907014100 -0300" stop="20190907023100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pesca Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907023100 -0300" stop="20190907032100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Jeremy Wade: Águas Misteriosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907032100 -0300" stop="20190907050100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pesca Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907050100 -0300" stop="20190907055100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Veterinário das Montanhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907055100 -0300" stop="20190907061600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Patrulha de Bornéu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907061600 -0300" stop="20190907064200 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907064200 -0300" stop="20190907070700 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907070700 -0300" stop="20190907075700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Dra. Dee: Veterinária do Alasca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907075700 -0300" stop="20190907084700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Dra. Dee: Veterinária do Alasca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907084700 -0300" stop="20190907093700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Dra. Dee: Veterinária do Alasca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907093700 -0300" stop="20190907102700 -0300" channel="Animal Planet HD">
+    <title lang="pt">A Família Irwin</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907102700 -0300" stop="20190907111700 -0300" channel="Animal Planet HD">
+    <title lang="pt">A Família Irwin</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907111700 -0300" stop="20190907114200 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Diário do Caçador de Crocodilos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907114200 -0300" stop="20190907120700 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Diário do Caçador de Crocodilos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907120700 -0300" stop="20190907130000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pesca Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907130000 -0300" stop="20190907135000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pesca Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907135000 -0300" stop="20190907143800 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pesca Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907143800 -0300" stop="20190907152600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pesca Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907152600 -0300" stop="20190907161400 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pesca Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907161400 -0300" stop="20190907170200 -0300" channel="Animal Planet HD">
+    <title lang="pt">Criaturas Estranhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907170200 -0300" stop="20190907175200 -0300" channel="Animal Planet HD">
+    <title lang="pt">Os Reis da Selva</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907175200 -0300" stop="20190907184800 -0300" channel="Animal Planet HD">
+    <title lang="pt">Espiões da Natureza</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907184800 -0300" stop="20190907194300 -0300" channel="Animal Planet HD">
+    <title lang="pt">Planeta Terra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907194300 -0300" stop="20190907203400 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Zoológico</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907203400 -0300" stop="20190907210000 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Diário do Caçador de Crocodilos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907210000 -0300" stop="20190907212500 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Diário do Caçador de Crocodilos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907212500 -0300" stop="20190907221600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907221600 -0300" stop="20190907230700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907230700 -0300" stop="20190907235800 -0300" channel="Animal Planet HD">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190907235800 -0300" stop="20190908014100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pesca Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908014100 -0300" stop="20190908023100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pesca Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908023100 -0300" stop="20190908032100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pesca Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908032100 -0300" stop="20190908041100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pesca Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908041100 -0300" stop="20190908050100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pesca Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908050100 -0300" stop="20190908055100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Veterinário das Montanhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908055100 -0300" stop="20190908061600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Patrulha de Bornéu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908061600 -0300" stop="20190908064200 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908064200 -0300" stop="20190908073200 -0300" channel="Animal Planet HD">
+    <title lang="pt">Veterinário das Montanhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908073200 -0300" stop="20190908082200 -0300" channel="Animal Planet HD">
+    <title lang="pt">Veterinário das Montanhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908082200 -0300" stop="20190908091200 -0300" channel="Animal Planet HD">
+    <title lang="pt">Veterinário das Montanhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908091200 -0300" stop="20190908101100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Luta Pelos Orangotangos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908101100 -0300" stop="20190908110600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Leões-da-montanha: Vida no Limite</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908110600 -0300" stop="20190908120200 -0300" channel="Animal Planet HD">
+    <title lang="pt">Espiões da Natureza</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908120200 -0300" stop="20190908125200 -0300" channel="Animal Planet HD">
+    <title lang="pt">Planeta Terra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908125200 -0300" stop="20190908134200 -0300" channel="Animal Planet HD">
+    <title lang="pt">Encontros Ferozes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908134200 -0300" stop="20190908143200 -0300" channel="Animal Planet HD">
+    <title lang="pt">Planeta Mutante</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908143200 -0300" stop="20190908153000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Filhotes: Desafiando Perigos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908153000 -0300" stop="20190908162000 -0300" channel="Animal Planet HD">
+    <title lang="pt">África Selvagem: Rios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908162000 -0300" stop="20190908171000 -0300" channel="Animal Planet HD">
+    <title lang="pt">África Selvagem: Rios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908171000 -0300" stop="20190908180000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Indochina Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908180000 -0300" stop="20190908185100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908185100 -0300" stop="20190908194300 -0300" channel="Animal Planet HD">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908194300 -0300" stop="20190908203400 -0300" channel="Animal Planet HD">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908203400 -0300" stop="20190908212500 -0300" channel="Animal Planet HD">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908212500 -0300" stop="20190908221600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908221600 -0300" stop="20190908230700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Casas na Árvore</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908230700 -0300" stop="20190908235800 -0300" channel="Animal Planet HD">
+    <title lang="pt">Família ao Resgate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908235800 -0300" stop="20190909005100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Um Lar para Pets</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909005100 -0300" stop="20190909014100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Meu Gato Endiabrado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909014100 -0300" stop="20190909023100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Meu Gato Endiabrado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909023100 -0300" stop="20190909032100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Meu Gato Endiabrado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909032100 -0300" stop="20190909041100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Meu Gato Endiabrado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909041100 -0300" stop="20190909050100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Meu Gato Endiabrado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909050100 -0300" stop="20190909055100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Veterinário das Montanhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909055100 -0300" stop="20190909061600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Patrulha de Bornéu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909061600 -0300" stop="20190909064200 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909064200 -0300" stop="20190909070700 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909070700 -0300" stop="20190909075700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Meu Amigo Cão, Meu Amigo Gato</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909075700 -0300" stop="20190909084700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Meu Amigo Cão, Meu Amigo Gato</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909084700 -0300" stop="20190909093700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Meu Amigo Cão, Meu Amigo Gato</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909093700 -0300" stop="20190909100200 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909100200 -0300" stop="20190909102700 -0300" channel="Animal Planet HD">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909102700 -0300" stop="20190909111700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pesca Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909111700 -0300" stop="20190909120700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Criaturas Estranhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909120700 -0300" stop="20190909130000 -0300" channel="Animal Planet HD">
+    <title lang="pt">A Família Irwin</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909130000 -0300" stop="20190909135000 -0300" channel="Animal Planet HD">
+    <title lang="pt">SOS VET</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909135000 -0300" stop="20190909144000 -0300" channel="Animal Planet HD">
+    <title lang="pt">SOS VET</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909144000 -0300" stop="20190909153000 -0300" channel="Animal Planet HD">
+    <title lang="pt">SOS VET</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909153000 -0300" stop="20190909162000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Vida Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909162000 -0300" stop="20190909171000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Vida Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909171000 -0300" stop="20190909180000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Luta Pelos Orangotangos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909180000 -0300" stop="20190909182600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Terra Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909182600 -0300" stop="20190909185100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Terra Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909185100 -0300" stop="20190909194300 -0300" channel="Animal Planet HD">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909194300 -0300" stop="20190909203400 -0300" channel="Animal Planet HD">
+    <title lang="pt">Jeremy Wade: Águas Misteriosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909203400 -0300" stop="20190909212500 -0300" channel="Animal Planet HD">
+    <title lang="pt">Jeremy Wade: Águas Misteriosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909212500 -0300" stop="20190909221600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Jeremy Wade: Rios Grandiosos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909221600 -0300" stop="20190909230700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909230700 -0300" stop="20190909235800 -0300" channel="Animal Planet HD">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909235800 -0300" stop="20190910005100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Justiça Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
